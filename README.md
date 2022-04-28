@@ -37,26 +37,49 @@ data(package="hcidata")
 
 Includes data from:
 
--   [Joanna Bergström, Jarrod Knibbe, Henning Pohl, and Kasper
-    Hornbæk. 2022. Sense of Agency and User Experience: Is There a Link?
-    <i>ACM Trans. Comput.-Hum. Interact.</i> 29, 4, Article 28
-    (August 2022)](https://doi.org/10.1145/3490493)
--   [Joachim Normann Larsen, Tórur Højgaard Jacobsen, Sebastian Boring,
-    Joanna Bergström, and Henning Pohl. 2019. The Influence of Hand Size
-    on Touch Accuracy. In <i>Proceedings of the 21st International
-    Conference on Human-Computer Interaction with Mobile Devices and
-    Services</i> (<i>MobileHCI
-    ’19</i>).](https://doi.org/10.1145/3338286.3340115)
--   [Klemen Lilija, Henning Pohl, Sebastian Boring, and Kasper
-    Hornbæk. 2019. Augmented Reality Views for Occluded Interaction. In
-    <i>Proceedings of the 2019 CHI Conference on Human Factors in
-    Computing Systems</i> (<i>CHI
-    ’19</i>).](https://doi.org/10.1145/3290605.3300676)
--   [Henning Pohl and Roderick Murray-Smith. 2013. Focused and casual
-    interactions: allowing users to vary their level of engagement. In
-    <i>Proceedings of the SIGCHI Conference on Human Factors in
-    Computing Systems</i> (<i>CHI
-    ’13</i>).](https://doi.org/10.1145/2470654.2481307)
+<div id="refs" class="references csl-bib-body hanging-indent">
+
+<div id="ref-Bergstroem2022" class="csl-entry">
+
+Bergström, Joanna, Jarrod Knibbe, Henning Pohl, and Kasper Hornbæk.
+2022. “Sense of Agency and User Experience: Is There a Link?” *ACM
+Trans. Comput.-Hum. Interact.* 29 (4).
+<https://doi.org/10.1145/3490493>.
+
+</div>
+
+<div id="ref-Larsen2019" class="csl-entry">
+
+Larsen, Joachim Normann, Tórur Højgaard Jacobsen, Sebastian Boring,
+Joanna Bergström, and Henning Pohl. 2019. “The Influence of Hand Size on
+Touch Accuracy.” In *Proceedings of the 21st International Conference on
+Human-Computer Interaction with Mobile Devices and Services*. MobileHCI
+’19. New York, NY, USA: Association for Computing Machinery.
+<https://doi.org/10.1145/3338286.3340115>.
+
+</div>
+
+<div id="ref-Lilija2019" class="csl-entry">
+
+Lilija, Klemen, Henning Pohl, Sebastian Boring, and Kasper Hornbæk.
+2019. “Augmented Reality Views for Occluded Interaction.” In
+*Proceedings of the 2019 CHI Conference on Human Factors in Computing
+Systems*, 1–12. CHI ’19. New York, NY, USA: Association for Computing
+Machinery. <https://doi.org/10.1145/3290605.3300676>.
+
+</div>
+
+<div id="ref-Pohl2013" class="csl-entry">
+
+Pohl, Henning, and Roderick Murray-Smith. 2013. “Focused and Casual
+Interactions: Allowing Users to Vary Their Level of Engagement.” In
+*Proceedings of the SIGCHI Conference on Human Factors in Computing
+Systems*, 2223–32. CHI ’13. New York, NY, USA: Association for Computing
+Machinery. <https://doi.org/10.1145/2470654.2481307>.
+
+</div>
+
+</div>
 
 ## Contributing
 
