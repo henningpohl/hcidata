@@ -1,0 +1,17 @@
+Package: hcidata
+Title: HCI Datasets
+Version: 0.1.0
+Type: Package
+Authors@R: person("Henning", "Pohl", email="HenningPohl@gmail.com", comment=c(ORCID="0000-0002-1420-4309"), role=c("aut", "cre"))
+Description: A collection of datasets from the field of human-computer interaction.
+Encoding: UTF-8
+License: CC BY 4.0
+Language: en-US
+URL: https://github.com/henningpohl/hcidata
+BugReports: https://github.com/henningpohl/hcidata/issues
+LazyData: true
+Depends: 
+    R (>= 2.10)
+Imports: Rdpack
+RdMacros: Rdpack
+RoxygenNote: 7.1.2
