@@ -1,0 +1,3241 @@
+user,block,object,view,question,rating
+1,1,slider,none,liked overall,0
+1,1,slider,static,liked overall,5
+1,1,slider,dynamic,liked overall,1
+1,1,slider,cloned,liked overall,5
+1,1,slider,see-through,liked overall,5
+1,1,slider,none,supported,0
+1,1,slider,static,supported,5
+1,1,slider,dynamic,supported,2
+1,1,slider,cloned,supported,5
+1,1,slider,see-through,supported,5
+1,1,slider,none,manipulate,5
+1,1,slider,static,manipulate,5
+1,1,slider,dynamic,manipulate,5
+1,1,slider,cloned,manipulate,5
+1,1,slider,see-through,manipulate,5
+1,1,slider,none,check state,5
+1,1,slider,static,check state,5
+1,1,slider,dynamic,check state,5
+1,1,slider,cloned,check state,5
+1,1,slider,see-through,check state,5
+1,1,slider,none,ranking,4
+1,1,slider,static,ranking,1
+1,1,slider,dynamic,ranking,3
+1,1,slider,cloned,ranking,0
+1,1,slider,see-through,ranking,2
+1,2,button,none,liked overall,3
+1,2,button,static,liked overall,4
+1,2,button,dynamic,liked overall,1
+1,2,button,cloned,liked overall,6
+1,2,button,see-through,liked overall,4
+1,2,button,none,supported,3
+1,2,button,static,supported,3
+1,2,button,dynamic,supported,2
+1,2,button,cloned,supported,6
+1,2,button,see-through,supported,5
+1,2,button,none,manipulate,6
+1,2,button,static,manipulate,6
+1,2,button,dynamic,manipulate,6
+1,2,button,cloned,manipulate,6
+1,2,button,see-through,manipulate,6
+1,2,button,none,check state,6
+1,2,button,static,check state,6
+1,2,button,dynamic,check state,6
+1,2,button,cloned,check state,6
+1,2,button,see-through,check state,6
+1,2,button,none,ranking,4
+1,2,button,static,ranking,1
+1,2,button,dynamic,ranking,3
+1,2,button,cloned,ranking,0
+1,2,button,see-through,ranking,2
+1,3,dial,none,liked overall,2
+1,3,dial,static,liked overall,5
+1,3,dial,dynamic,liked overall,1
+1,3,dial,cloned,liked overall,6
+1,3,dial,see-through,liked overall,5
+1,3,dial,none,supported,2
+1,3,dial,static,supported,5
+1,3,dial,dynamic,supported,1
+1,3,dial,cloned,supported,6
+1,3,dial,see-through,supported,5
+1,3,dial,none,manipulate,6
+1,3,dial,static,manipulate,6
+1,3,dial,dynamic,manipulate,6
+1,3,dial,cloned,manipulate,6
+1,3,dial,see-through,manipulate,6
+1,3,dial,none,check state,6
+1,3,dial,static,check state,6
+1,3,dial,dynamic,check state,6
+1,3,dial,cloned,check state,6
+1,3,dial,see-through,check state,6
+1,3,dial,none,ranking,4
+1,3,dial,static,ranking,2
+1,3,dial,dynamic,ranking,3
+1,3,dial,cloned,ranking,0
+1,3,dial,see-through,ranking,1
+1,4,hook,none,liked overall,3
+1,4,hook,static,liked overall,5
+1,4,hook,dynamic,liked overall,4
+1,4,hook,cloned,liked overall,5
+1,4,hook,see-through,liked overall,5
+1,4,hook,none,supported,1
+1,4,hook,static,supported,4
+1,4,hook,dynamic,supported,3
+1,4,hook,cloned,supported,4
+1,4,hook,see-through,supported,4
+1,4,hook,none,manipulate,5
+1,4,hook,static,manipulate,5
+1,4,hook,dynamic,manipulate,5
+1,4,hook,cloned,manipulate,5
+1,4,hook,see-through,manipulate,5
+1,4,hook,none,check state,2
+1,4,hook,static,check state,6
+1,4,hook,dynamic,check state,5
+1,4,hook,cloned,check state,6
+1,4,hook,see-through,check state,6
+1,4,hook,none,ranking,4
+1,4,hook,static,ranking,1
+1,4,hook,dynamic,ranking,3
+1,4,hook,cloned,ranking,0
+1,4,hook,see-through,ranking,2
+1,5,hdmi,none,liked overall,3
+1,5,hdmi,static,liked overall,6
+1,5,hdmi,dynamic,liked overall,5
+1,5,hdmi,cloned,liked overall,4
+1,5,hdmi,see-through,liked overall,5
+1,5,hdmi,none,supported,3
+1,5,hdmi,static,supported,6
+1,5,hdmi,dynamic,supported,5
+1,5,hdmi,cloned,supported,4
+1,5,hdmi,see-through,supported,5
+1,5,hdmi,none,manipulate,4
+1,5,hdmi,static,manipulate,4
+1,5,hdmi,dynamic,manipulate,4
+1,5,hdmi,cloned,manipulate,1
+1,5,hdmi,see-through,manipulate,5
+1,5,hdmi,none,check state,2
+1,5,hdmi,static,check state,5
+1,5,hdmi,dynamic,check state,4
+1,5,hdmi,cloned,check state,5
+1,5,hdmi,see-through,check state,5
+1,5,hdmi,none,ranking,4
+1,5,hdmi,static,ranking,0
+1,5,hdmi,dynamic,ranking,2
+1,5,hdmi,cloned,ranking,3
+1,5,hdmi,see-through,ranking,1
+1,99,,none,rating,2
+1,99,,static,rating,5
+1,99,,dynamic,rating,4
+1,99,,cloned,rating,6
+1,99,,see-through,rating,5
+1,99,,none,ranking,4
+1,99,,static,ranking,1
+1,99,,dynamic,ranking,3
+1,99,,cloned,ranking,0
+1,99,,see-through,ranking,2
+2,1,hook,none,liked overall,0
+2,1,hook,static,liked overall,6
+2,1,hook,dynamic,liked overall,5
+2,1,hook,cloned,liked overall,3
+2,1,hook,see-through,liked overall,6
+2,1,hook,none,supported,0
+2,1,hook,static,supported,6
+2,1,hook,dynamic,supported,3
+2,1,hook,cloned,supported,3
+2,1,hook,see-through,supported,5
+2,1,hook,none,manipulate,4
+2,1,hook,static,manipulate,6
+2,1,hook,dynamic,manipulate,6
+2,1,hook,cloned,manipulate,5
+2,1,hook,see-through,manipulate,6
+2,1,hook,none,check state,0
+2,1,hook,static,check state,5
+2,1,hook,dynamic,check state,4
+2,1,hook,cloned,check state,2
+2,1,hook,see-through,check state,6
+2,1,hook,none,ranking,4
+2,1,hook,static,ranking,0
+2,1,hook,dynamic,ranking,2
+2,1,hook,cloned,ranking,3
+2,1,hook,see-through,ranking,1
+2,2,hdmi,none,liked overall,0
+2,2,hdmi,static,liked overall,4
+2,2,hdmi,dynamic,liked overall,5
+2,2,hdmi,cloned,liked overall,2
+2,2,hdmi,see-through,liked overall,0
+2,2,hdmi,none,supported,0
+2,2,hdmi,static,supported,5
+2,2,hdmi,dynamic,supported,5
+2,2,hdmi,cloned,supported,1
+2,2,hdmi,see-through,supported,4
+2,2,hdmi,none,manipulate,3
+2,2,hdmi,static,manipulate,3
+2,2,hdmi,dynamic,manipulate,3
+2,2,hdmi,cloned,manipulate,3
+2,2,hdmi,see-through,manipulate,5
+2,2,hdmi,none,check state,0
+2,2,hdmi,static,check state,5
+2,2,hdmi,dynamic,check state,5
+2,2,hdmi,cloned,check state,5
+2,2,hdmi,see-through,check state,5
+2,2,hdmi,none,ranking,4
+2,2,hdmi,static,ranking,0
+2,2,hdmi,dynamic,ranking,3
+2,2,hdmi,cloned,ranking,2
+2,2,hdmi,see-through,ranking,1
+2,3,dial,none,liked overall,0
+2,3,dial,static,liked overall,4
+2,3,dial,dynamic,liked overall,5
+2,3,dial,cloned,liked overall,2
+2,3,dial,see-through,liked overall,6
+2,3,dial,none,supported,0
+2,3,dial,static,supported,6
+2,3,dial,dynamic,supported,5
+2,3,dial,cloned,supported,4
+2,3,dial,see-through,supported,6
+2,3,dial,none,manipulate,0
+2,3,dial,static,manipulate,3
+2,3,dial,dynamic,manipulate,4
+2,3,dial,cloned,manipulate,4
+2,3,dial,see-through,manipulate,5
+2,3,dial,none,check state,0
+2,3,dial,static,check state,6
+2,3,dial,dynamic,check state,2
+2,3,dial,cloned,check state,3
+2,3,dial,see-through,check state,3
+2,3,dial,none,ranking,4
+2,3,dial,static,ranking,0
+2,3,dial,dynamic,ranking,1
+2,3,dial,cloned,ranking,2
+2,3,dial,see-through,ranking,3
+2,4,button,none,liked overall,3
+2,4,button,static,liked overall,6
+2,4,button,dynamic,liked overall,1
+2,4,button,cloned,liked overall,6
+2,4,button,see-through,liked overall,2
+2,4,button,none,supported,3
+2,4,button,static,supported,4
+2,4,button,dynamic,supported,2
+2,4,button,cloned,supported,6
+2,4,button,see-through,supported,2
+2,4,button,none,manipulate,6
+2,4,button,static,manipulate,6
+2,4,button,dynamic,manipulate,6
+2,4,button,cloned,manipulate,6
+2,4,button,see-through,manipulate,5
+2,4,button,none,check state,3
+2,4,button,static,check state,6
+2,4,button,dynamic,check state,1
+2,4,button,cloned,check state,6
+2,4,button,see-through,check state,0
+2,4,button,none,ranking,4
+2,4,button,static,ranking,0
+2,4,button,dynamic,ranking,3
+2,4,button,cloned,ranking,1
+2,4,button,see-through,ranking,2
+2,5,slider,none,liked overall,0
+2,5,slider,static,liked overall,5
+2,5,slider,dynamic,liked overall,2
+2,5,slider,cloned,liked overall,6
+2,5,slider,see-through,liked overall,0
+2,5,slider,none,supported,0
+2,5,slider,static,supported,5
+2,5,slider,dynamic,supported,2
+2,5,slider,cloned,supported,6
+2,5,slider,see-through,supported,3
+2,5,slider,none,manipulate,0
+2,5,slider,static,manipulate,6
+2,5,slider,dynamic,manipulate,6
+2,5,slider,cloned,manipulate,6
+2,5,slider,see-through,manipulate,6
+2,5,slider,none,check state,0
+2,5,slider,static,check state,5
+2,5,slider,dynamic,check state,2
+2,5,slider,cloned,check state,6
+2,5,slider,see-through,check state,5
+2,5,slider,none,ranking,4
+2,5,slider,static,ranking,1
+2,5,slider,dynamic,ranking,3
+2,5,slider,cloned,ranking,0
+2,5,slider,see-through,ranking,2
+2,99,,none,rating,0
+2,99,,static,rating,6
+2,99,,dynamic,rating,1
+2,99,,cloned,rating,4
+2,99,,see-through,rating,3
+2,99,,none,ranking,4
+2,99,,static,ranking,0
+2,99,,dynamic,ranking,1
+2,99,,cloned,ranking,3
+2,99,,see-through,ranking,2
+3,1,hdmi,none,liked overall,5
+3,1,hdmi,static,liked overall,5
+3,1,hdmi,dynamic,liked overall,0
+3,1,hdmi,cloned,liked overall,4
+3,1,hdmi,see-through,liked overall,6
+3,1,hdmi,none,supported,0
+3,1,hdmi,static,supported,4
+3,1,hdmi,dynamic,supported,0
+3,1,hdmi,cloned,supported,5
+3,1,hdmi,see-through,supported,6
+3,1,hdmi,none,manipulate,3
+3,1,hdmi,static,manipulate,6
+3,1,hdmi,dynamic,manipulate,0
+3,1,hdmi,cloned,manipulate,4
+3,1,hdmi,see-through,manipulate,5
+3,1,hdmi,none,check state,0
+3,1,hdmi,static,check state,6
+3,1,hdmi,dynamic,check state,0
+3,1,hdmi,cloned,check state,6
+3,1,hdmi,see-through,check state,6
+3,1,hdmi,none,ranking,3
+3,1,hdmi,static,ranking,2
+3,1,hdmi,dynamic,ranking,4
+3,1,hdmi,cloned,ranking,1
+3,1,hdmi,see-through,ranking,0
+3,2,hook,none,liked overall,6
+3,2,hook,static,liked overall,6
+3,2,hook,dynamic,liked overall,5
+3,2,hook,cloned,liked overall,6
+3,2,hook,see-through,liked overall,6
+3,2,hook,none,supported,6
+3,2,hook,static,supported,6
+3,2,hook,dynamic,supported,4
+3,2,hook,cloned,supported,6
+3,2,hook,see-through,supported,6
+3,2,hook,none,manipulate,6
+3,2,hook,static,manipulate,6
+3,2,hook,dynamic,manipulate,3
+3,2,hook,cloned,manipulate,6
+3,2,hook,see-through,manipulate,6
+3,2,hook,none,check state,6
+3,2,hook,static,check state,6
+3,2,hook,dynamic,check state,3
+3,2,hook,cloned,check state,6
+3,2,hook,see-through,check state,6
+3,2,hook,none,ranking,3
+3,2,hook,static,ranking,1
+3,2,hook,dynamic,ranking,4
+3,2,hook,cloned,ranking,0
+3,2,hook,see-through,ranking,2
+3,3,dial,none,liked overall,5
+3,3,dial,static,liked overall,3
+3,3,dial,dynamic,liked overall,0
+3,3,dial,cloned,liked overall,6
+3,3,dial,see-through,liked overall,1
+3,3,dial,none,supported,5
+3,3,dial,static,supported,1
+3,3,dial,dynamic,supported,0
+3,3,dial,cloned,supported,6
+3,3,dial,see-through,supported,2
+3,3,dial,none,manipulate,6
+3,3,dial,static,manipulate,0
+3,3,dial,dynamic,manipulate,0
+3,3,dial,cloned,manipulate,6
+3,3,dial,see-through,manipulate,0
+3,3,dial,none,check state,4
+3,3,dial,static,check state,0
+3,3,dial,dynamic,check state,0
+3,3,dial,cloned,check state,6
+3,3,dial,see-through,check state,0
+3,3,dial,none,ranking,1
+3,3,dial,static,ranking,3
+3,3,dial,dynamic,ranking,4
+3,3,dial,cloned,ranking,0
+3,3,dial,see-through,ranking,2
+3,4,button,none,liked overall,2
+3,4,button,static,liked overall,0
+3,4,button,dynamic,liked overall,0
+3,4,button,cloned,liked overall,6
+3,4,button,see-through,liked overall,0
+3,4,button,none,supported,1
+3,4,button,static,supported,1
+3,4,button,dynamic,supported,0
+3,4,button,cloned,supported,6
+3,4,button,see-through,supported,2
+3,4,button,none,manipulate,3
+3,4,button,static,manipulate,3
+3,4,button,dynamic,manipulate,3
+3,4,button,cloned,manipulate,6
+3,4,button,see-through,manipulate,3
+3,4,button,none,check state,4
+3,4,button,static,check state,4
+3,4,button,dynamic,check state,4
+3,4,button,cloned,check state,6
+3,4,button,see-through,check state,4
+3,4,button,none,ranking,1
+3,4,button,static,ranking,3
+3,4,button,dynamic,ranking,4
+3,4,button,cloned,ranking,0
+3,4,button,see-through,ranking,2
+3,5,slider,none,liked overall,3
+3,5,slider,static,liked overall,3
+3,5,slider,dynamic,liked overall,3
+3,5,slider,cloned,liked overall,6
+3,5,slider,see-through,liked overall,3
+3,5,slider,none,supported,1
+3,5,slider,static,supported,4
+3,5,slider,dynamic,supported,5
+3,5,slider,cloned,supported,6
+3,5,slider,see-through,supported,3
+3,5,slider,none,manipulate,4
+3,5,slider,static,manipulate,4
+3,5,slider,dynamic,manipulate,5
+3,5,slider,cloned,manipulate,6
+3,5,slider,see-through,manipulate,4
+3,5,slider,none,check state,5
+3,5,slider,static,check state,5
+3,5,slider,dynamic,check state,5
+3,5,slider,cloned,check state,5
+3,5,slider,see-through,check state,5
+3,5,slider,none,ranking,2
+3,5,slider,static,ranking,4
+3,5,slider,dynamic,ranking,1
+3,5,slider,cloned,ranking,0
+3,5,slider,see-through,ranking,3
+3,99,,none,rating,3
+3,99,,static,rating,2
+3,99,,dynamic,rating,1
+3,99,,cloned,rating,6
+3,99,,see-through,rating,4
+3,99,,none,ranking,2
+3,99,,static,ranking,3
+3,99,,dynamic,ranking,4
+3,99,,cloned,ranking,0
+3,99,,see-through,ranking,1
+4,1,button,none,liked overall,2
+4,1,button,static,liked overall,3
+4,1,button,dynamic,liked overall,2
+4,1,button,cloned,liked overall,0
+4,1,button,see-through,liked overall,3
+4,1,button,none,supported,3
+4,1,button,static,supported,3
+4,1,button,dynamic,supported,2
+4,1,button,cloned,supported,1
+4,1,button,see-through,supported,2
+4,1,button,none,manipulate,5
+4,1,button,static,manipulate,4
+4,1,button,dynamic,manipulate,5
+4,1,button,cloned,manipulate,4
+4,1,button,see-through,manipulate,4
+4,1,button,none,check state,5
+4,1,button,static,check state,4
+4,1,button,dynamic,check state,4
+4,1,button,cloned,check state,5
+4,1,button,see-through,check state,4
+4,1,button,none,ranking,1
+4,1,button,static,ranking,0
+4,1,button,dynamic,ranking,3
+4,1,button,cloned,ranking,2
+4,1,button,see-through,ranking,4
+4,2,slider,none,liked overall,1
+4,2,slider,static,liked overall,5
+4,2,slider,dynamic,liked overall,4
+4,2,slider,cloned,liked overall,5
+4,2,slider,see-through,liked overall,3
+4,2,slider,none,supported,1
+4,2,slider,static,supported,5
+4,2,slider,dynamic,supported,4
+4,2,slider,cloned,supported,4
+4,2,slider,see-through,supported,5
+4,2,slider,none,manipulate,4
+4,2,slider,static,manipulate,5
+4,2,slider,dynamic,manipulate,5
+4,2,slider,cloned,manipulate,5
+4,2,slider,see-through,manipulate,4
+4,2,slider,none,check state,2
+4,2,slider,static,check state,4
+4,2,slider,dynamic,check state,4
+4,2,slider,cloned,check state,4
+4,2,slider,see-through,check state,5
+4,2,slider,none,ranking,2
+4,2,slider,static,ranking,1
+4,2,slider,dynamic,ranking,3
+4,2,slider,cloned,ranking,4
+4,2,slider,see-through,ranking,0
+4,3,dial,none,liked overall,1
+4,3,dial,static,liked overall,3
+4,3,dial,dynamic,liked overall,2
+4,3,dial,cloned,liked overall,4
+4,3,dial,see-through,liked overall,5
+4,3,dial,none,supported,1
+4,3,dial,static,supported,3
+4,3,dial,dynamic,supported,4
+4,3,dial,cloned,supported,3
+4,3,dial,see-through,supported,5
+4,3,dial,none,manipulate,2
+4,3,dial,static,manipulate,3
+4,3,dial,dynamic,manipulate,3
+4,3,dial,cloned,manipulate,4
+4,3,dial,see-through,manipulate,5
+4,3,dial,none,check state,3
+4,3,dial,static,check state,3
+4,3,dial,dynamic,check state,4
+4,3,dial,cloned,check state,4
+4,3,dial,see-through,check state,4
+4,3,dial,none,ranking,3
+4,3,dial,static,ranking,1
+4,3,dial,dynamic,ranking,2
+4,3,dial,cloned,ranking,4
+4,3,dial,see-through,ranking,0
+4,4,hook,none,liked overall,6
+4,4,hook,static,liked overall,4
+4,4,hook,dynamic,liked overall,4
+4,4,hook,cloned,liked overall,3
+4,4,hook,see-through,liked overall,5
+4,4,hook,none,supported,6
+4,4,hook,static,supported,4
+4,4,hook,dynamic,supported,3
+4,4,hook,cloned,supported,5
+4,4,hook,see-through,supported,4
+4,4,hook,none,manipulate,6
+4,4,hook,static,manipulate,4
+4,4,hook,dynamic,manipulate,4
+4,4,hook,cloned,manipulate,5
+4,4,hook,see-through,manipulate,4
+4,4,hook,none,check state,4
+4,4,hook,static,check state,5
+4,4,hook,dynamic,check state,4
+4,4,hook,cloned,check state,3
+4,4,hook,see-through,check state,4
+4,4,hook,none,ranking,0
+4,4,hook,static,ranking,2
+4,4,hook,dynamic,ranking,3
+4,4,hook,cloned,ranking,4
+4,4,hook,see-through,ranking,1
+4,5,hdmi,none,liked overall,1
+4,5,hdmi,static,liked overall,2
+4,5,hdmi,dynamic,liked overall,1
+4,5,hdmi,cloned,liked overall,3
+4,5,hdmi,see-through,liked overall,1
+4,5,hdmi,none,supported,1
+4,5,hdmi,static,supported,1
+4,5,hdmi,dynamic,supported,2
+4,5,hdmi,cloned,supported,1
+4,5,hdmi,see-through,supported,2
+4,5,hdmi,none,manipulate,2
+4,5,hdmi,static,manipulate,1
+4,5,hdmi,dynamic,manipulate,2
+4,5,hdmi,cloned,manipulate,3
+4,5,hdmi,see-through,manipulate,2
+4,5,hdmi,none,check state,2
+4,5,hdmi,static,check state,3
+4,5,hdmi,dynamic,check state,2
+4,5,hdmi,cloned,check state,4
+4,5,hdmi,see-through,check state,4
+4,5,hdmi,none,ranking,4
+4,5,hdmi,static,ranking,0
+4,5,hdmi,dynamic,ranking,3
+4,5,hdmi,cloned,ranking,1
+4,5,hdmi,see-through,ranking,2
+4,99,,none,rating,5
+4,99,,static,rating,3
+4,99,,dynamic,rating,3
+4,99,,cloned,rating,1
+4,99,,see-through,rating,3
+4,99,,none,ranking,1
+4,99,,static,ranking,2
+4,99,,dynamic,ranking,0
+4,99,,cloned,ranking,4
+4,99,,see-through,ranking,5
+5,1,hook,none,liked overall,3
+5,1,hook,static,liked overall,4
+5,1,hook,dynamic,liked overall,5
+5,1,hook,cloned,liked overall,6
+5,1,hook,see-through,liked overall,6
+5,1,hook,none,supported,2
+5,1,hook,static,supported,4
+5,1,hook,dynamic,supported,4
+5,1,hook,cloned,supported,5
+5,1,hook,see-through,supported,5
+5,1,hook,none,manipulate,4
+5,1,hook,static,manipulate,5
+5,1,hook,dynamic,manipulate,5
+5,1,hook,cloned,manipulate,6
+5,1,hook,see-through,manipulate,5
+5,1,hook,none,check state,1
+5,1,hook,static,check state,4
+5,1,hook,dynamic,check state,4
+5,1,hook,cloned,check state,6
+5,1,hook,see-through,check state,6
+5,1,hook,none,ranking,3
+5,1,hook,static,ranking,4
+5,1,hook,dynamic,ranking,2
+5,1,hook,cloned,ranking,0
+5,1,hook,see-through,ranking,1
+5,2,hdmi,none,liked overall,4
+5,2,hdmi,static,liked overall,2
+5,2,hdmi,dynamic,liked overall,2
+5,2,hdmi,cloned,liked overall,6
+5,2,hdmi,see-through,liked overall,6
+5,2,hdmi,none,supported,1
+5,2,hdmi,static,supported,2
+5,2,hdmi,dynamic,supported,1
+5,2,hdmi,cloned,supported,6
+5,2,hdmi,see-through,supported,6
+5,2,hdmi,none,manipulate,3
+5,2,hdmi,static,manipulate,1
+5,2,hdmi,dynamic,manipulate,1
+5,2,hdmi,cloned,manipulate,6
+5,2,hdmi,see-through,manipulate,6
+5,2,hdmi,none,check state,2
+5,2,hdmi,static,check state,3
+5,2,hdmi,dynamic,check state,3
+5,2,hdmi,cloned,check state,4
+5,2,hdmi,see-through,check state,4
+5,2,hdmi,none,ranking,2
+5,2,hdmi,static,ranking,3
+5,2,hdmi,dynamic,ranking,4
+5,2,hdmi,cloned,ranking,1
+5,2,hdmi,see-through,ranking,0
+5,3,button,none,liked overall,4
+5,3,button,static,liked overall,2
+5,3,button,dynamic,liked overall,3
+5,3,button,cloned,liked overall,6
+5,3,button,see-through,liked overall,6
+5,3,button,none,supported,3
+5,3,button,static,supported,4
+5,3,button,dynamic,supported,4
+5,3,button,cloned,supported,6
+5,3,button,see-through,supported,6
+5,3,button,none,manipulate,4
+5,3,button,static,manipulate,5
+5,3,button,dynamic,manipulate,5
+5,3,button,cloned,manipulate,6
+5,3,button,see-through,manipulate,6
+5,3,button,none,check state,4
+5,3,button,static,check state,5
+5,3,button,dynamic,check state,5
+5,3,button,cloned,check state,6
+5,3,button,see-through,check state,6
+5,3,button,none,ranking,3
+5,3,button,static,ranking,4
+5,3,button,dynamic,ranking,2
+5,3,button,cloned,ranking,1
+5,3,button,see-through,ranking,0
+5,4,slider,none,liked overall,3
+5,4,slider,static,liked overall,2
+5,4,slider,dynamic,liked overall,3
+5,4,slider,cloned,liked overall,6
+5,4,slider,see-through,liked overall,6
+5,4,slider,none,supported,3
+5,4,slider,static,supported,4
+5,4,slider,dynamic,supported,5
+5,4,slider,cloned,supported,6
+5,4,slider,see-through,supported,6
+5,4,slider,none,manipulate,2
+5,4,slider,static,manipulate,5
+5,4,slider,dynamic,manipulate,6
+5,4,slider,cloned,manipulate,6
+5,4,slider,see-through,manipulate,6
+5,4,slider,none,check state,1
+5,4,slider,static,check state,5
+5,4,slider,dynamic,check state,6
+5,4,slider,cloned,check state,6
+5,4,slider,see-through,check state,6
+5,4,slider,none,ranking,4
+5,4,slider,static,ranking,3
+5,4,slider,dynamic,ranking,2
+5,4,slider,cloned,ranking,0
+5,4,slider,see-through,ranking,1
+5,5,dial,none,liked overall,1
+5,5,dial,static,liked overall,5
+5,5,dial,dynamic,liked overall,2
+5,5,dial,cloned,liked overall,6
+5,5,dial,see-through,liked overall,6
+5,5,dial,none,supported,0
+5,5,dial,static,supported,5
+5,5,dial,dynamic,supported,4
+5,5,dial,cloned,supported,6
+5,5,dial,see-through,supported,6
+5,5,dial,none,manipulate,0
+5,5,dial,static,manipulate,6
+5,5,dial,dynamic,manipulate,4
+5,5,dial,cloned,manipulate,6
+5,5,dial,see-through,manipulate,6
+5,5,dial,none,check state,0
+5,5,dial,static,check state,5
+5,5,dial,dynamic,check state,3
+5,5,dial,cloned,check state,6
+5,5,dial,see-through,check state,6
+5,5,dial,none,ranking,4
+5,5,dial,static,ranking,2
+5,5,dial,dynamic,ranking,3
+5,5,dial,cloned,ranking,0
+5,5,dial,see-through,ranking,1
+5,99,,none,rating,2
+5,99,,static,rating,4
+5,99,,dynamic,rating,4
+5,99,,cloned,rating,6
+5,99,,see-through,rating,6
+5,99,,none,ranking,4
+5,99,,static,ranking,3
+5,99,,dynamic,ranking,2
+5,99,,cloned,ranking,1
+5,99,,see-through,ranking,0
+6,1,slider,none,liked overall,1
+6,1,slider,static,liked overall,5
+6,1,slider,dynamic,liked overall,3
+6,1,slider,cloned,liked overall,4
+6,1,slider,see-through,liked overall,3
+6,1,slider,none,supported,0
+6,1,slider,static,supported,5
+6,1,slider,dynamic,supported,3
+6,1,slider,cloned,supported,5
+6,1,slider,see-through,supported,4
+6,1,slider,none,manipulate,1
+6,1,slider,static,manipulate,5
+6,1,slider,dynamic,manipulate,5
+6,1,slider,cloned,manipulate,5
+6,1,slider,see-through,manipulate,5
+6,1,slider,none,check state,1
+6,1,slider,static,check state,5
+6,1,slider,dynamic,check state,3
+6,1,slider,cloned,check state,6
+6,1,slider,see-through,check state,5
+6,1,slider,none,ranking,4
+6,1,slider,static,ranking,1
+6,1,slider,dynamic,ranking,3
+6,1,slider,cloned,ranking,0
+6,1,slider,see-through,ranking,2
+6,2,dial,none,liked overall,3
+6,2,dial,static,liked overall,3
+6,2,dial,dynamic,liked overall,2
+6,2,dial,cloned,liked overall,4
+6,2,dial,see-through,liked overall,5
+6,2,dial,none,supported,2
+6,2,dial,static,supported,3
+6,2,dial,dynamic,supported,2
+6,2,dial,cloned,supported,4
+6,2,dial,see-through,supported,4
+6,2,dial,none,manipulate,2
+6,2,dial,static,manipulate,3
+6,2,dial,dynamic,manipulate,3
+6,2,dial,cloned,manipulate,5
+6,2,dial,see-through,manipulate,4
+6,2,dial,none,check state,0
+6,2,dial,static,check state,2
+6,2,dial,dynamic,check state,1
+6,2,dial,cloned,check state,5
+6,2,dial,see-through,check state,4
+6,2,dial,none,ranking,4
+6,2,dial,static,ranking,2
+6,2,dial,dynamic,ranking,3
+6,2,dial,cloned,ranking,0
+6,2,dial,see-through,ranking,1
+6,3,button,none,liked overall,2
+6,3,button,static,liked overall,3
+6,3,button,dynamic,liked overall,2
+6,3,button,cloned,liked overall,5
+6,3,button,see-through,liked overall,4
+6,3,button,none,supported,2
+6,3,button,static,supported,3
+6,3,button,dynamic,supported,3
+6,3,button,cloned,supported,5
+6,3,button,see-through,supported,5
+6,3,button,none,manipulate,2
+6,3,button,static,manipulate,4
+6,3,button,dynamic,manipulate,4
+6,3,button,cloned,manipulate,5
+6,3,button,see-through,manipulate,4
+6,3,button,none,check state,1
+6,3,button,static,check state,2
+6,3,button,dynamic,check state,4
+6,3,button,cloned,check state,5
+6,3,button,see-through,check state,6
+6,3,button,none,ranking,4
+6,3,button,static,ranking,3
+6,3,button,dynamic,ranking,2
+6,3,button,cloned,ranking,1
+6,3,button,see-through,ranking,0
+6,4,hook,none,liked overall,1
+6,4,hook,static,liked overall,3
+6,4,hook,dynamic,liked overall,3
+6,4,hook,cloned,liked overall,5
+6,4,hook,see-through,liked overall,4
+6,4,hook,none,supported,2
+6,4,hook,static,supported,3
+6,4,hook,dynamic,supported,5
+6,4,hook,cloned,supported,4
+6,4,hook,see-through,supported,5
+6,4,hook,none,manipulate,2
+6,4,hook,static,manipulate,3
+6,4,hook,dynamic,manipulate,4
+6,4,hook,cloned,manipulate,4
+6,4,hook,see-through,manipulate,4
+6,4,hook,none,check state,0
+6,4,hook,static,check state,4
+6,4,hook,dynamic,check state,5
+6,4,hook,cloned,check state,4
+6,4,hook,see-through,check state,5
+6,4,hook,none,ranking,4
+6,4,hook,static,ranking,2
+6,4,hook,dynamic,ranking,3
+6,4,hook,cloned,ranking,1
+6,4,hook,see-through,ranking,0
+6,5,hdmi,none,liked overall,1
+6,5,hdmi,static,liked overall,4
+6,5,hdmi,dynamic,liked overall,4
+6,5,hdmi,cloned,liked overall,4
+6,5,hdmi,see-through,liked overall,5
+6,5,hdmi,none,supported,0
+6,5,hdmi,static,supported,5
+6,5,hdmi,dynamic,supported,5
+6,5,hdmi,cloned,supported,4
+6,5,hdmi,see-through,supported,5
+6,5,hdmi,none,manipulate,2
+6,5,hdmi,static,manipulate,5
+6,5,hdmi,dynamic,manipulate,4
+6,5,hdmi,cloned,manipulate,4
+6,5,hdmi,see-through,manipulate,5
+6,5,hdmi,none,check state,0
+6,5,hdmi,static,check state,4
+6,5,hdmi,dynamic,check state,4
+6,5,hdmi,cloned,check state,5
+6,5,hdmi,see-through,check state,6
+6,5,hdmi,none,ranking,4
+6,5,hdmi,static,ranking,1
+6,5,hdmi,dynamic,ranking,3
+6,5,hdmi,cloned,ranking,2
+6,5,hdmi,see-through,ranking,0
+6,99,,none,rating,1
+6,99,,static,rating,4
+6,99,,dynamic,rating,3
+6,99,,cloned,rating,5
+6,99,,see-through,rating,5
+6,99,,none,ranking,4
+6,99,,static,ranking,2
+6,99,,dynamic,ranking,3
+6,99,,cloned,ranking,0
+6,99,,see-through,ranking,1
+7,1,hook,none,liked overall,1
+7,1,hook,static,liked overall,0
+7,1,hook,dynamic,liked overall,6
+7,1,hook,cloned,liked overall,5
+7,1,hook,see-through,liked overall,5
+7,1,hook,none,supported,0
+7,1,hook,static,supported,1
+7,1,hook,dynamic,supported,6
+7,1,hook,cloned,supported,4
+7,1,hook,see-through,supported,5
+7,1,hook,none,manipulate,0
+7,1,hook,static,manipulate,2
+7,1,hook,dynamic,manipulate,6
+7,1,hook,cloned,manipulate,5
+7,1,hook,see-through,manipulate,5
+7,1,hook,none,check state,0
+7,1,hook,static,check state,1
+7,1,hook,dynamic,check state,5
+7,1,hook,cloned,check state,6
+7,1,hook,see-through,check state,5
+7,1,hook,none,ranking,4
+7,1,hook,static,ranking,3
+7,1,hook,dynamic,ranking,0
+7,1,hook,cloned,ranking,1
+7,1,hook,see-through,ranking,2
+7,2,hdmi,none,liked overall,2
+7,2,hdmi,static,liked overall,4
+7,2,hdmi,dynamic,liked overall,1
+7,2,hdmi,cloned,liked overall,5
+7,2,hdmi,see-through,liked overall,0
+7,2,hdmi,none,supported,3
+7,2,hdmi,static,supported,5
+7,2,hdmi,dynamic,supported,0
+7,2,hdmi,cloned,supported,6
+7,2,hdmi,see-through,supported,2
+7,2,hdmi,none,manipulate,2
+7,2,hdmi,static,manipulate,5
+7,2,hdmi,dynamic,manipulate,1
+7,2,hdmi,cloned,manipulate,5
+7,2,hdmi,see-through,manipulate,5
+7,2,hdmi,none,check state,1
+7,2,hdmi,static,check state,5
+7,2,hdmi,dynamic,check state,0
+7,2,hdmi,cloned,check state,5
+7,2,hdmi,see-through,check state,0
+7,2,hdmi,none,ranking,2
+7,2,hdmi,static,ranking,1
+7,2,hdmi,dynamic,ranking,3
+7,2,hdmi,cloned,ranking,0
+7,2,hdmi,see-through,ranking,4
+7,3,slider,none,liked overall,3
+7,3,slider,static,liked overall,6
+7,3,slider,dynamic,liked overall,0
+7,3,slider,cloned,liked overall,6
+7,3,slider,see-through,liked overall,6
+7,3,slider,none,supported,1
+7,3,slider,static,supported,4
+7,3,slider,dynamic,supported,0
+7,3,slider,cloned,supported,6
+7,3,slider,see-through,supported,5
+7,3,slider,none,manipulate,4
+7,3,slider,static,manipulate,5
+7,3,slider,dynamic,manipulate,0
+7,3,slider,cloned,manipulate,6
+7,3,slider,see-through,manipulate,6
+7,3,slider,none,check state,3
+7,3,slider,static,check state,5
+7,3,slider,dynamic,check state,0
+7,3,slider,cloned,check state,6
+7,3,slider,see-through,check state,6
+7,3,slider,none,ranking,3
+7,3,slider,static,ranking,2
+7,3,slider,dynamic,ranking,4
+7,3,slider,cloned,ranking,1
+7,3,slider,see-through,ranking,0
+7,4,button,none,liked overall,4
+7,4,button,static,liked overall,4
+7,4,button,dynamic,liked overall,2
+7,4,button,cloned,liked overall,6
+7,4,button,see-through,liked overall,5
+7,4,button,none,supported,5
+7,4,button,static,supported,5
+7,4,button,dynamic,supported,1
+7,4,button,cloned,supported,6
+7,4,button,see-through,supported,5
+7,4,button,none,manipulate,6
+7,4,button,static,manipulate,5
+7,4,button,dynamic,manipulate,0
+7,4,button,cloned,manipulate,5
+7,4,button,see-through,manipulate,5
+7,4,button,none,check state,4
+7,4,button,static,check state,5
+7,4,button,dynamic,check state,0
+7,4,button,cloned,check state,6
+7,4,button,see-through,check state,6
+7,4,button,none,ranking,3
+7,4,button,static,ranking,2
+7,4,button,dynamic,ranking,4
+7,4,button,cloned,ranking,0
+7,4,button,see-through,ranking,1
+7,5,dial,none,liked overall,4
+7,5,dial,static,liked overall,6
+7,5,dial,dynamic,liked overall,0
+7,5,dial,cloned,liked overall,5
+7,5,dial,see-through,liked overall,4
+7,5,dial,none,supported,3
+7,5,dial,static,supported,6
+7,5,dial,dynamic,supported,0
+7,5,dial,cloned,supported,6
+7,5,dial,see-through,supported,4
+7,5,dial,none,manipulate,5
+7,5,dial,static,manipulate,6
+7,5,dial,dynamic,manipulate,0
+7,5,dial,cloned,manipulate,6
+7,5,dial,see-through,manipulate,5
+7,5,dial,none,check state,2
+7,5,dial,static,check state,6
+7,5,dial,dynamic,check state,0
+7,5,dial,cloned,check state,6
+7,5,dial,see-through,check state,5
+7,5,dial,none,ranking,2
+7,5,dial,static,ranking,0
+7,5,dial,dynamic,ranking,4
+7,5,dial,cloned,ranking,1
+7,5,dial,see-through,ranking,3
+7,99,,none,rating,2
+7,99,,static,rating,4
+7,99,,dynamic,rating,1
+7,99,,cloned,rating,6
+7,99,,see-through,rating,5
+7,99,,none,ranking,3
+7,99,,static,ranking,1
+7,99,,dynamic,ranking,4
+7,99,,cloned,ranking,0
+7,99,,see-through,ranking,2
+8,1,dial,none,liked overall,0
+8,1,dial,static,liked overall,5
+8,1,dial,dynamic,liked overall,2
+8,1,dial,cloned,liked overall,3
+8,1,dial,see-through,liked overall,6
+8,1,dial,none,supported,1
+8,1,dial,static,supported,5
+8,1,dial,dynamic,supported,3
+8,1,dial,cloned,supported,2
+8,1,dial,see-through,supported,5
+8,1,dial,none,manipulate,1
+8,1,dial,static,manipulate,6
+8,1,dial,dynamic,manipulate,0
+8,1,dial,cloned,manipulate,4
+8,1,dial,see-through,manipulate,5
+8,1,dial,none,check state,0
+8,1,dial,static,check state,6
+8,1,dial,dynamic,check state,5
+8,1,dial,cloned,check state,5
+8,1,dial,see-through,check state,6
+8,1,dial,none,ranking,3
+8,1,dial,static,ranking,1
+8,1,dial,dynamic,ranking,4
+8,1,dial,cloned,ranking,2
+8,1,dial,see-through,ranking,0
+8,2,button,none,liked overall,5
+8,2,button,static,liked overall,6
+8,2,button,dynamic,liked overall,0
+8,2,button,cloned,liked overall,6
+8,2,button,see-through,liked overall,6
+8,2,button,none,supported,0
+8,2,button,static,supported,5
+8,2,button,dynamic,supported,1
+8,2,button,cloned,supported,5
+8,2,button,see-through,supported,6
+8,2,button,none,manipulate,3
+8,2,button,static,manipulate,6
+8,2,button,dynamic,manipulate,3
+8,2,button,cloned,manipulate,6
+8,2,button,see-through,manipulate,5
+8,2,button,none,check state,0
+8,2,button,static,check state,6
+8,2,button,dynamic,check state,6
+8,2,button,cloned,check state,6
+8,2,button,see-through,check state,6
+8,2,button,none,ranking,3
+8,2,button,static,ranking,0
+8,2,button,dynamic,ranking,4
+8,2,button,cloned,ranking,2
+8,2,button,see-through,ranking,1
+8,3,slider,none,liked overall,0
+8,3,slider,static,liked overall,4
+8,3,slider,dynamic,liked overall,2
+8,3,slider,cloned,liked overall,4
+8,3,slider,see-through,liked overall,6
+8,3,slider,none,supported,0
+8,3,slider,static,supported,6
+8,3,slider,dynamic,supported,1
+8,3,slider,cloned,supported,5
+8,3,slider,see-through,supported,5
+8,3,slider,none,manipulate,1
+8,3,slider,static,manipulate,6
+8,3,slider,dynamic,manipulate,2
+8,3,slider,cloned,manipulate,5
+8,3,slider,see-through,manipulate,4
+8,3,slider,none,check state,0
+8,3,slider,static,check state,6
+8,3,slider,dynamic,check state,4
+8,3,slider,cloned,check state,5
+8,3,slider,see-through,check state,6
+8,3,slider,none,ranking,4
+8,3,slider,static,ranking,0
+8,3,slider,dynamic,ranking,3
+8,3,slider,cloned,ranking,2
+8,3,slider,see-through,ranking,1
+8,4,hook,none,liked overall,1
+8,4,hook,static,liked overall,2
+8,4,hook,dynamic,liked overall,4
+8,4,hook,cloned,liked overall,5
+8,4,hook,see-through,liked overall,2
+8,4,hook,none,supported,0
+8,4,hook,static,supported,4
+8,4,hook,dynamic,supported,5
+8,4,hook,cloned,supported,4
+8,4,hook,see-through,supported,3
+8,4,hook,none,manipulate,3
+8,4,hook,static,manipulate,5
+8,4,hook,dynamic,manipulate,6
+8,4,hook,cloned,manipulate,5
+8,4,hook,see-through,manipulate,4
+8,4,hook,none,check state,0
+8,4,hook,static,check state,6
+8,4,hook,dynamic,check state,5
+8,4,hook,cloned,check state,6
+8,4,hook,see-through,check state,6
+8,4,hook,none,ranking,3
+8,4,hook,static,ranking,0
+8,4,hook,dynamic,ranking,2
+8,4,hook,cloned,ranking,1
+8,4,hook,see-through,ranking,4
+8,5,hdmi,none,liked overall,0
+8,5,hdmi,static,liked overall,4
+8,5,hdmi,dynamic,liked overall,3
+8,5,hdmi,cloned,liked overall,5
+8,5,hdmi,see-through,liked overall,4
+8,5,hdmi,none,supported,0
+8,5,hdmi,static,supported,5
+8,5,hdmi,dynamic,supported,4
+8,5,hdmi,cloned,supported,5
+8,5,hdmi,see-through,supported,3
+8,5,hdmi,none,manipulate,1
+8,5,hdmi,static,manipulate,5
+8,5,hdmi,dynamic,manipulate,6
+8,5,hdmi,cloned,manipulate,5
+8,5,hdmi,see-through,manipulate,4
+8,5,hdmi,none,check state,0
+8,5,hdmi,static,check state,6
+8,5,hdmi,dynamic,check state,5
+8,5,hdmi,cloned,check state,6
+8,5,hdmi,see-through,check state,6
+8,5,hdmi,none,ranking,4
+8,5,hdmi,static,ranking,0
+8,5,hdmi,dynamic,ranking,2
+8,5,hdmi,cloned,ranking,1
+8,5,hdmi,see-through,ranking,3
+8,99,,none,rating,3
+8,99,,static,rating,6
+8,99,,dynamic,rating,4
+8,99,,cloned,rating,5
+8,99,,see-through,rating,4
+8,99,,none,ranking,4
+8,99,,static,ranking,0
+8,99,,dynamic,ranking,3
+8,99,,cloned,ranking,1
+8,99,,see-through,ranking,2
+9,1,hook,none,liked overall,0
+9,1,hook,static,liked overall,5
+9,1,hook,dynamic,liked overall,5
+9,1,hook,cloned,liked overall,6
+9,1,hook,see-through,liked overall,5
+9,1,hook,none,supported,0
+9,1,hook,static,supported,6
+9,1,hook,dynamic,supported,5
+9,1,hook,cloned,supported,4
+9,1,hook,see-through,supported,3
+9,1,hook,none,manipulate,1
+9,1,hook,static,manipulate,6
+9,1,hook,dynamic,manipulate,5
+9,1,hook,cloned,manipulate,5
+9,1,hook,see-through,manipulate,2
+9,1,hook,none,check state,1
+9,1,hook,static,check state,6
+9,1,hook,dynamic,check state,5
+9,1,hook,cloned,check state,4
+9,1,hook,see-through,check state,2
+9,1,hook,none,ranking,4
+9,1,hook,static,ranking,0
+9,1,hook,dynamic,ranking,1
+9,1,hook,cloned,ranking,2
+9,1,hook,see-through,ranking,3
+9,2,hdmi,none,liked overall,1
+9,2,hdmi,static,liked overall,4
+9,2,hdmi,dynamic,liked overall,4
+9,2,hdmi,cloned,liked overall,6
+9,2,hdmi,see-through,liked overall,3
+9,2,hdmi,none,supported,3
+9,2,hdmi,static,supported,5
+9,2,hdmi,dynamic,supported,2
+9,2,hdmi,cloned,supported,6
+9,2,hdmi,see-through,supported,4
+9,2,hdmi,none,manipulate,2
+9,2,hdmi,static,manipulate,5
+9,2,hdmi,dynamic,manipulate,4
+9,2,hdmi,cloned,manipulate,6
+9,2,hdmi,see-through,manipulate,5
+9,2,hdmi,none,check state,3
+9,2,hdmi,static,check state,4
+9,2,hdmi,dynamic,check state,4
+9,2,hdmi,cloned,check state,6
+9,2,hdmi,see-through,check state,5
+9,2,hdmi,none,ranking,4
+9,2,hdmi,static,ranking,1
+9,2,hdmi,dynamic,ranking,3
+9,2,hdmi,cloned,ranking,0
+9,2,hdmi,see-through,ranking,2
+9,3,dial,none,liked overall,0
+9,3,dial,static,liked overall,5
+9,3,dial,dynamic,liked overall,2
+9,3,dial,cloned,liked overall,6
+9,3,dial,see-through,liked overall,5
+9,3,dial,none,supported,0
+9,3,dial,static,supported,5
+9,3,dial,dynamic,supported,3
+9,3,dial,cloned,supported,6
+9,3,dial,see-through,supported,5
+9,3,dial,none,manipulate,0
+9,3,dial,static,manipulate,5
+9,3,dial,dynamic,manipulate,2
+9,3,dial,cloned,manipulate,6
+9,3,dial,see-through,manipulate,5
+9,3,dial,none,check state,0
+9,3,dial,static,check state,5
+9,3,dial,dynamic,check state,4
+9,3,dial,cloned,check state,6
+9,3,dial,see-through,check state,5
+9,3,dial,none,ranking,4
+9,3,dial,static,ranking,2
+9,3,dial,dynamic,ranking,3
+9,3,dial,cloned,ranking,0
+9,3,dial,see-through,ranking,1
+9,4,slider,none,liked overall,0
+9,4,slider,static,liked overall,5
+9,4,slider,dynamic,liked overall,4
+9,4,slider,cloned,liked overall,6
+9,4,slider,see-through,liked overall,5
+9,4,slider,none,supported,0
+9,4,slider,static,supported,6
+9,4,slider,dynamic,supported,3
+9,4,slider,cloned,supported,6
+9,4,slider,see-through,supported,4
+9,4,slider,none,manipulate,0
+9,4,slider,static,manipulate,6
+9,4,slider,dynamic,manipulate,3
+9,4,slider,cloned,manipulate,6
+9,4,slider,see-through,manipulate,4
+9,4,slider,none,check state,0
+9,4,slider,static,check state,6
+9,4,slider,dynamic,check state,3
+9,4,slider,cloned,check state,6
+9,4,slider,see-through,check state,4
+9,4,slider,none,ranking,4
+9,4,slider,static,ranking,1
+9,4,slider,dynamic,ranking,3
+9,4,slider,cloned,ranking,0
+9,4,slider,see-through,ranking,2
+9,5,button,none,liked overall,3
+9,5,button,static,liked overall,6
+9,5,button,dynamic,liked overall,4
+9,5,button,cloned,liked overall,6
+9,5,button,see-through,liked overall,4
+9,5,button,none,supported,4
+9,5,button,static,supported,6
+9,5,button,dynamic,supported,4
+9,5,button,cloned,supported,6
+9,5,button,see-through,supported,4
+9,5,button,none,manipulate,4
+9,5,button,static,manipulate,6
+9,5,button,dynamic,manipulate,3
+9,5,button,cloned,manipulate,6
+9,5,button,see-through,manipulate,5
+9,5,button,none,check state,4
+9,5,button,static,check state,6
+9,5,button,dynamic,check state,4
+9,5,button,cloned,check state,6
+9,5,button,see-through,check state,5
+9,5,button,none,ranking,3
+9,5,button,static,ranking,1
+9,5,button,dynamic,ranking,4
+9,5,button,cloned,ranking,0
+9,5,button,see-through,ranking,2
+9,99,,none,rating,0
+9,99,,static,rating,6
+9,99,,dynamic,rating,4
+9,99,,cloned,rating,6
+9,99,,see-through,rating,4
+9,99,,none,ranking,4
+9,99,,static,ranking,1
+9,99,,dynamic,ranking,3
+9,99,,cloned,ranking,0
+9,99,,see-through,ranking,2
+10,1,dial,none,liked overall,3
+10,1,dial,static,liked overall,5
+10,1,dial,dynamic,liked overall,2
+10,1,dial,cloned,liked overall,5
+10,1,dial,see-through,liked overall,4
+10,1,dial,none,supported,1
+10,1,dial,static,supported,5
+10,1,dial,dynamic,supported,2
+10,1,dial,cloned,supported,6
+10,1,dial,see-through,supported,5
+10,1,dial,none,manipulate,5
+10,1,dial,static,manipulate,4
+10,1,dial,dynamic,manipulate,3
+10,1,dial,cloned,manipulate,5
+10,1,dial,see-through,manipulate,4
+10,1,dial,none,check state,0
+10,1,dial,static,check state,5
+10,1,dial,dynamic,check state,3
+10,1,dial,cloned,check state,6
+10,1,dial,see-through,check state,4
+10,1,dial,none,ranking,4
+10,1,dial,static,ranking,1
+10,1,dial,dynamic,ranking,3
+10,1,dial,cloned,ranking,0
+10,1,dial,see-through,ranking,2
+10,2,slider,none,liked overall,0
+10,2,slider,static,liked overall,1
+10,2,slider,dynamic,liked overall,6
+10,2,slider,cloned,liked overall,5
+10,2,slider,see-through,liked overall,5
+10,2,slider,none,supported,1
+10,2,slider,static,supported,3
+10,2,slider,dynamic,supported,6
+10,2,slider,cloned,supported,6
+10,2,slider,see-through,supported,5
+10,2,slider,none,manipulate,2
+10,2,slider,static,manipulate,1
+10,2,slider,dynamic,manipulate,6
+10,2,slider,cloned,manipulate,5
+10,2,slider,see-through,manipulate,5
+10,2,slider,none,check state,1
+10,2,slider,static,check state,4
+10,2,slider,dynamic,check state,6
+10,2,slider,cloned,check state,6
+10,2,slider,see-through,check state,5
+10,2,slider,none,ranking,4
+10,2,slider,static,ranking,3
+10,2,slider,dynamic,ranking,0
+10,2,slider,cloned,ranking,1
+10,2,slider,see-through,ranking,2
+10,3,button,none,liked overall,4
+10,3,button,static,liked overall,3
+10,3,button,dynamic,liked overall,4
+10,3,button,cloned,liked overall,5
+10,3,button,see-through,liked overall,6
+10,3,button,none,supported,4
+10,3,button,static,supported,4
+10,3,button,dynamic,supported,5
+10,3,button,cloned,supported,5
+10,3,button,see-through,supported,6
+10,3,button,none,manipulate,5
+10,3,button,static,manipulate,5
+10,3,button,dynamic,manipulate,3
+10,3,button,cloned,manipulate,5
+10,3,button,see-through,manipulate,6
+10,3,button,none,check state,3
+10,3,button,static,check state,1
+10,3,button,dynamic,check state,4
+10,3,button,cloned,check state,6
+10,3,button,see-through,check state,5
+10,3,button,none,ranking,3
+10,3,button,static,ranking,4
+10,3,button,dynamic,ranking,2
+10,3,button,cloned,ranking,1
+10,3,button,see-through,ranking,0
+10,4,hdmi,none,liked overall,4
+10,4,hdmi,static,liked overall,1
+10,4,hdmi,dynamic,liked overall,1
+10,4,hdmi,cloned,liked overall,3
+10,4,hdmi,see-through,liked overall,6
+10,4,hdmi,none,supported,3
+10,4,hdmi,static,supported,0
+10,4,hdmi,dynamic,supported,1
+10,4,hdmi,cloned,supported,4
+10,4,hdmi,see-through,supported,5
+10,4,hdmi,none,manipulate,2
+10,4,hdmi,static,manipulate,2
+10,4,hdmi,dynamic,manipulate,2
+10,4,hdmi,cloned,manipulate,4
+10,4,hdmi,see-through,manipulate,5
+10,4,hdmi,none,check state,0
+10,4,hdmi,static,check state,1
+10,4,hdmi,dynamic,check state,2
+10,4,hdmi,cloned,check state,4
+10,4,hdmi,see-through,check state,5
+10,4,hdmi,none,ranking,2
+10,4,hdmi,static,ranking,4
+10,4,hdmi,dynamic,ranking,3
+10,4,hdmi,cloned,ranking,1
+10,4,hdmi,see-through,ranking,0
+10,5,hook,none,liked overall,1
+10,5,hook,static,liked overall,2
+10,5,hook,dynamic,liked overall,1
+10,5,hook,cloned,liked overall,3
+10,5,hook,see-through,liked overall,5
+10,5,hook,none,supported,2
+10,5,hook,static,supported,4
+10,5,hook,dynamic,supported,3
+10,5,hook,cloned,supported,4
+10,5,hook,see-through,supported,5
+10,5,hook,none,manipulate,4
+10,5,hook,static,manipulate,3
+10,5,hook,dynamic,manipulate,2
+10,5,hook,cloned,manipulate,3
+10,5,hook,see-through,manipulate,5
+10,5,hook,none,check state,4
+10,5,hook,static,check state,3
+10,5,hook,dynamic,check state,2
+10,5,hook,cloned,check state,4
+10,5,hook,see-through,check state,5
+10,5,hook,none,ranking,2
+10,5,hook,static,ranking,3
+10,5,hook,dynamic,ranking,4
+10,5,hook,cloned,ranking,1
+10,5,hook,see-through,ranking,0
+10,99,,none,rating,2
+10,99,,static,rating,4
+10,99,,dynamic,rating,2
+10,99,,cloned,rating,5
+10,99,,see-through,rating,6
+10,99,,none,ranking,3
+10,99,,static,ranking,2
+10,99,,dynamic,ranking,4
+10,99,,cloned,ranking,1
+10,99,,see-through,ranking,0
+11,1,hdmi,none,liked overall,6
+11,1,hdmi,static,liked overall,5
+11,1,hdmi,dynamic,liked overall,4
+11,1,hdmi,cloned,liked overall,3
+11,1,hdmi,see-through,liked overall,6
+11,1,hdmi,none,supported,4
+11,1,hdmi,static,supported,6
+11,1,hdmi,dynamic,supported,5
+11,1,hdmi,cloned,supported,3
+11,1,hdmi,see-through,supported,5
+11,1,hdmi,none,manipulate,4
+11,1,hdmi,static,manipulate,6
+11,1,hdmi,dynamic,manipulate,5
+11,1,hdmi,cloned,manipulate,4
+11,1,hdmi,see-through,manipulate,5
+11,1,hdmi,none,check state,2
+11,1,hdmi,static,check state,6
+11,1,hdmi,dynamic,check state,4
+11,1,hdmi,cloned,check state,6
+11,1,hdmi,see-through,check state,6
+11,1,hdmi,none,ranking,2
+11,1,hdmi,static,ranking,0
+11,1,hdmi,dynamic,ranking,3
+11,1,hdmi,cloned,ranking,4
+11,1,hdmi,see-through,ranking,1
+11,2,hook,none,liked overall,3
+11,2,hook,static,liked overall,5
+11,2,hook,dynamic,liked overall,4
+11,2,hook,cloned,liked overall,6
+11,2,hook,see-through,liked overall,4
+11,2,hook,none,supported,2
+11,2,hook,static,supported,6
+11,2,hook,dynamic,supported,5
+11,2,hook,cloned,supported,6
+11,2,hook,see-through,supported,4
+11,2,hook,none,manipulate,3
+11,2,hook,static,manipulate,6
+11,2,hook,dynamic,manipulate,5
+11,2,hook,cloned,manipulate,6
+11,2,hook,see-through,manipulate,4
+11,2,hook,none,check state,2
+11,2,hook,static,check state,5
+11,2,hook,dynamic,check state,6
+11,2,hook,cloned,check state,6
+11,2,hook,see-through,check state,4
+11,2,hook,none,ranking,4
+11,2,hook,static,ranking,0
+11,2,hook,dynamic,ranking,2
+11,2,hook,cloned,ranking,1
+11,2,hook,see-through,ranking,3
+11,3,button,none,liked overall,4
+11,3,button,static,liked overall,5
+11,3,button,dynamic,liked overall,5
+11,3,button,cloned,liked overall,5
+11,3,button,see-through,liked overall,5
+11,3,button,none,supported,4
+11,3,button,static,supported,6
+11,3,button,dynamic,supported,5
+11,3,button,cloned,supported,6
+11,3,button,see-through,supported,6
+11,3,button,none,manipulate,4
+11,3,button,static,manipulate,6
+11,3,button,dynamic,manipulate,6
+11,3,button,cloned,manipulate,6
+11,3,button,see-through,manipulate,6
+11,3,button,none,check state,4
+11,3,button,static,check state,5
+11,3,button,dynamic,check state,6
+11,3,button,cloned,check state,6
+11,3,button,see-through,check state,6
+11,3,button,none,ranking,4
+11,3,button,static,ranking,2
+11,3,button,dynamic,ranking,3
+11,3,button,cloned,ranking,0
+11,3,button,see-through,ranking,1
+11,4,slider,none,liked overall,3
+11,4,slider,static,liked overall,5
+11,4,slider,dynamic,liked overall,4
+11,4,slider,cloned,liked overall,6
+11,4,slider,see-through,liked overall,5
+11,4,slider,none,supported,2
+11,4,slider,static,supported,4
+11,4,slider,dynamic,supported,3
+11,4,slider,cloned,supported,6
+11,4,slider,see-through,supported,5
+11,4,slider,none,manipulate,4
+11,4,slider,static,manipulate,4
+11,4,slider,dynamic,manipulate,3
+11,4,slider,cloned,manipulate,6
+11,4,slider,see-through,manipulate,5
+11,4,slider,none,check state,1
+11,4,slider,static,check state,4
+11,4,slider,dynamic,check state,4
+11,4,slider,cloned,check state,6
+11,4,slider,see-through,check state,5
+11,4,slider,none,ranking,4
+11,4,slider,static,ranking,2
+11,4,slider,dynamic,ranking,3
+11,4,slider,cloned,ranking,0
+11,4,slider,see-through,ranking,1
+11,5,dial,none,liked overall,3
+11,5,dial,static,liked overall,4
+11,5,dial,dynamic,liked overall,2
+11,5,dial,cloned,liked overall,6
+11,5,dial,see-through,liked overall,6
+11,5,dial,none,supported,3
+11,5,dial,static,supported,4
+11,5,dial,dynamic,supported,2
+11,5,dial,cloned,supported,6
+11,5,dial,see-through,supported,6
+11,5,dial,none,manipulate,3
+11,5,dial,static,manipulate,4
+11,5,dial,dynamic,manipulate,2
+11,5,dial,cloned,manipulate,6
+11,5,dial,see-through,manipulate,6
+11,5,dial,none,check state,2
+11,5,dial,static,check state,3
+11,5,dial,dynamic,check state,1
+11,5,dial,cloned,check state,6
+11,5,dial,see-through,check state,1
+11,5,dial,none,ranking,3
+11,5,dial,static,ranking,2
+11,5,dial,dynamic,ranking,4
+11,5,dial,cloned,ranking,0
+11,5,dial,see-through,ranking,1
+11,99,,none,rating,3
+11,99,,static,rating,4
+11,99,,dynamic,rating,3
+11,99,,cloned,rating,5
+11,99,,see-through,rating,5
+11,99,,none,ranking,3
+11,99,,static,ranking,2
+11,99,,dynamic,ranking,4
+11,99,,cloned,ranking,1
+11,99,,see-through,ranking,0
+12,1,hdmi,none,liked overall,3
+12,1,hdmi,static,liked overall,4
+12,1,hdmi,dynamic,liked overall,5
+12,1,hdmi,cloned,liked overall,4
+12,1,hdmi,see-through,liked overall,5
+12,1,hdmi,none,supported,3
+12,1,hdmi,static,supported,4
+12,1,hdmi,dynamic,supported,4
+12,1,hdmi,cloned,supported,4
+12,1,hdmi,see-through,supported,4
+12,1,hdmi,none,manipulate,5
+12,1,hdmi,static,manipulate,5
+12,1,hdmi,dynamic,manipulate,5
+12,1,hdmi,cloned,manipulate,5
+12,1,hdmi,see-through,manipulate,5
+12,1,hdmi,none,check state,2
+12,1,hdmi,static,check state,5
+12,1,hdmi,dynamic,check state,5
+12,1,hdmi,cloned,check state,5
+12,1,hdmi,see-through,check state,5
+12,1,hdmi,none,ranking,4
+12,1,hdmi,static,ranking,2
+12,1,hdmi,dynamic,ranking,0
+12,1,hdmi,cloned,ranking,1
+12,1,hdmi,see-through,ranking,3
+12,2,hook,none,liked overall,3
+12,2,hook,static,liked overall,4
+12,2,hook,dynamic,liked overall,5
+12,2,hook,cloned,liked overall,5
+12,2,hook,see-through,liked overall,5
+12,2,hook,none,supported,2
+12,2,hook,static,supported,2
+12,2,hook,dynamic,supported,4
+12,2,hook,cloned,supported,4
+12,2,hook,see-through,supported,3
+12,2,hook,none,manipulate,5
+12,2,hook,static,manipulate,5
+12,2,hook,dynamic,manipulate,5
+12,2,hook,cloned,manipulate,5
+12,2,hook,see-through,manipulate,5
+12,2,hook,none,check state,3
+12,2,hook,static,check state,5
+12,2,hook,dynamic,check state,5
+12,2,hook,cloned,check state,5
+12,2,hook,see-through,check state,5
+12,2,hook,none,ranking,4
+12,2,hook,static,ranking,3
+12,2,hook,dynamic,ranking,1
+12,2,hook,cloned,ranking,0
+12,2,hook,see-through,ranking,2
+12,3,slider,none,liked overall,1
+12,3,slider,static,liked overall,3
+12,3,slider,dynamic,liked overall,2
+12,3,slider,cloned,liked overall,5
+12,3,slider,see-through,liked overall,5
+12,3,slider,none,supported,1
+12,3,slider,static,supported,3
+12,3,slider,dynamic,supported,2
+12,3,slider,cloned,supported,5
+12,3,slider,see-through,supported,5
+12,3,slider,none,manipulate,2
+12,3,slider,static,manipulate,3
+12,3,slider,dynamic,manipulate,3
+12,3,slider,cloned,manipulate,5
+12,3,slider,see-through,manipulate,5
+12,3,slider,none,check state,1
+12,3,slider,static,check state,3
+12,3,slider,dynamic,check state,3
+12,3,slider,cloned,check state,5
+12,3,slider,see-through,check state,5
+12,3,slider,none,ranking,4
+12,3,slider,static,ranking,2
+12,3,slider,dynamic,ranking,3
+12,3,slider,cloned,ranking,1
+12,3,slider,see-through,ranking,0
+12,4,button,none,liked overall,2
+12,4,button,static,liked overall,2
+12,4,button,dynamic,liked overall,3
+12,4,button,cloned,liked overall,5
+12,4,button,see-through,liked overall,5
+12,4,button,none,supported,3
+12,4,button,static,supported,3
+12,4,button,dynamic,supported,3
+12,4,button,cloned,supported,5
+12,4,button,see-through,supported,5
+12,4,button,none,manipulate,2
+12,4,button,static,manipulate,3
+12,4,button,dynamic,manipulate,3
+12,4,button,cloned,manipulate,5
+12,4,button,see-through,manipulate,5
+12,4,button,none,check state,1
+12,4,button,static,check state,3
+12,4,button,dynamic,check state,3
+12,4,button,cloned,check state,5
+12,4,button,see-through,check state,5
+12,4,button,none,ranking,4
+12,4,button,static,ranking,2
+12,4,button,dynamic,ranking,3
+12,4,button,cloned,ranking,0
+12,4,button,see-through,ranking,1
+12,5,dial,none,liked overall,1
+12,5,dial,static,liked overall,2
+12,5,dial,dynamic,liked overall,2
+12,5,dial,cloned,liked overall,5
+12,5,dial,see-through,liked overall,5
+12,5,dial,none,supported,1
+12,5,dial,static,supported,2
+12,5,dial,dynamic,supported,3
+12,5,dial,cloned,supported,5
+12,5,dial,see-through,supported,4
+12,5,dial,none,manipulate,1
+12,5,dial,static,manipulate,2
+12,5,dial,dynamic,manipulate,4
+12,5,dial,cloned,manipulate,4
+12,5,dial,see-through,manipulate,4
+12,5,dial,none,check state,0
+12,5,dial,static,check state,3
+12,5,dial,dynamic,check state,2
+12,5,dial,cloned,check state,5
+12,5,dial,see-through,check state,5
+12,5,dial,none,ranking,4
+12,5,dial,static,ranking,2
+12,5,dial,dynamic,ranking,3
+12,5,dial,cloned,ranking,0
+12,5,dial,see-through,ranking,1
+12,99,,none,rating,2
+12,99,,static,rating,3
+12,99,,dynamic,rating,2
+12,99,,cloned,rating,5
+12,99,,see-through,rating,5
+12,99,,none,ranking,4
+12,99,,static,ranking,3
+12,99,,dynamic,ranking,2
+12,99,,cloned,ranking,0
+12,99,,see-through,ranking,1
+13,1,button,none,liked overall,2
+13,1,button,static,liked overall,1
+13,1,button,dynamic,liked overall,2
+13,1,button,cloned,liked overall,6
+13,1,button,see-through,liked overall,6
+13,1,button,none,supported,1
+13,1,button,static,supported,3
+13,1,button,dynamic,supported,3
+13,1,button,cloned,supported,5
+13,1,button,see-through,supported,6
+13,1,button,none,manipulate,1
+13,1,button,static,manipulate,3
+13,1,button,dynamic,manipulate,4
+13,1,button,cloned,manipulate,5
+13,1,button,see-through,manipulate,5
+13,1,button,none,check state,5
+13,1,button,static,check state,1
+13,1,button,dynamic,check state,1
+13,1,button,cloned,check state,6
+13,1,button,see-through,check state,6
+13,1,button,none,ranking,4
+13,1,button,static,ranking,3
+13,1,button,dynamic,ranking,2
+13,1,button,cloned,ranking,0
+13,1,button,see-through,ranking,1
+13,2,dial,none,liked overall,1
+13,2,dial,static,liked overall,4
+13,2,dial,dynamic,liked overall,1
+13,2,dial,cloned,liked overall,6
+13,2,dial,see-through,liked overall,6
+13,2,dial,none,supported,0
+13,2,dial,static,supported,4
+13,2,dial,dynamic,supported,1
+13,2,dial,cloned,supported,6
+13,2,dial,see-through,supported,6
+13,2,dial,none,manipulate,0
+13,2,dial,static,manipulate,4
+13,2,dial,dynamic,manipulate,1
+13,2,dial,cloned,manipulate,5
+13,2,dial,see-through,manipulate,5
+13,2,dial,none,check state,0
+13,2,dial,static,check state,5
+13,2,dial,dynamic,check state,1
+13,2,dial,cloned,check state,6
+13,2,dial,see-through,check state,6
+13,2,dial,none,ranking,4
+13,2,dial,static,ranking,2
+13,2,dial,dynamic,ranking,3
+13,2,dial,cloned,ranking,0
+13,2,dial,see-through,ranking,1
+13,3,slider,none,liked overall,1
+13,3,slider,static,liked overall,5
+13,3,slider,dynamic,liked overall,6
+13,3,slider,cloned,liked overall,3
+13,3,slider,see-through,liked overall,6
+13,3,slider,none,supported,1
+13,3,slider,static,supported,4
+13,3,slider,dynamic,supported,6
+13,3,slider,cloned,supported,4
+13,3,slider,see-through,supported,6
+13,3,slider,none,manipulate,2
+13,3,slider,static,manipulate,4
+13,3,slider,dynamic,manipulate,6
+13,3,slider,cloned,manipulate,4
+13,3,slider,see-through,manipulate,6
+13,3,slider,none,check state,0
+13,3,slider,static,check state,6
+13,3,slider,dynamic,check state,6
+13,3,slider,cloned,check state,6
+13,3,slider,see-through,check state,6
+13,3,slider,none,ranking,4
+13,3,slider,static,ranking,3
+13,3,slider,dynamic,ranking,1
+13,3,slider,cloned,ranking,2
+13,3,slider,see-through,ranking,0
+13,4,hdmi,none,liked overall,1
+13,4,hdmi,static,liked overall,3
+13,4,hdmi,dynamic,liked overall,4
+13,4,hdmi,cloned,liked overall,4
+13,4,hdmi,see-through,liked overall,6
+13,4,hdmi,none,supported,0
+13,4,hdmi,static,supported,4
+13,4,hdmi,dynamic,supported,3
+13,4,hdmi,cloned,supported,4
+13,4,hdmi,see-through,supported,6
+13,4,hdmi,none,manipulate,0
+13,4,hdmi,static,manipulate,3
+13,4,hdmi,dynamic,manipulate,3
+13,4,hdmi,cloned,manipulate,4
+13,4,hdmi,see-through,manipulate,6
+13,4,hdmi,none,check state,0
+13,4,hdmi,static,check state,4
+13,4,hdmi,dynamic,check state,4
+13,4,hdmi,cloned,check state,5
+13,4,hdmi,see-through,check state,6
+13,4,hdmi,none,ranking,4
+13,4,hdmi,static,ranking,3
+13,4,hdmi,dynamic,ranking,2
+13,4,hdmi,cloned,ranking,1
+13,4,hdmi,see-through,ranking,0
+13,5,hook,none,liked overall,3
+13,5,hook,static,liked overall,3
+13,5,hook,dynamic,liked overall,4
+13,5,hook,cloned,liked overall,5
+13,5,hook,see-through,liked overall,6
+13,5,hook,none,supported,2
+13,5,hook,static,supported,4
+13,5,hook,dynamic,supported,4
+13,5,hook,cloned,supported,5
+13,5,hook,see-through,supported,6
+13,5,hook,none,manipulate,2
+13,5,hook,static,manipulate,4
+13,5,hook,dynamic,manipulate,5
+13,5,hook,cloned,manipulate,6
+13,5,hook,see-through,manipulate,6
+13,5,hook,none,check state,1
+13,5,hook,static,check state,4
+13,5,hook,dynamic,check state,5
+13,5,hook,cloned,check state,6
+13,5,hook,see-through,check state,6
+13,5,hook,none,ranking,4
+13,5,hook,static,ranking,3
+13,5,hook,dynamic,ranking,2
+13,5,hook,cloned,ranking,1
+13,5,hook,see-through,ranking,0
+13,99,,none,rating,1
+13,99,,static,rating,4
+13,99,,dynamic,rating,4
+13,99,,cloned,rating,5
+13,99,,see-through,rating,6
+13,99,,none,ranking,4
+13,99,,static,ranking,3
+13,99,,dynamic,ranking,2
+13,99,,cloned,ranking,1
+13,99,,see-through,ranking,0
+14,1,dial,none,liked overall,0
+14,1,dial,static,liked overall,6
+14,1,dial,dynamic,liked overall,5
+14,1,dial,cloned,liked overall,3
+14,1,dial,see-through,liked overall,6
+14,1,dial,none,supported,0
+14,1,dial,static,supported,5
+14,1,dial,dynamic,supported,4
+14,1,dial,cloned,supported,2
+14,1,dial,see-through,supported,6
+14,1,dial,none,manipulate,0
+14,1,dial,static,manipulate,6
+14,1,dial,dynamic,manipulate,5
+14,1,dial,cloned,manipulate,5
+14,1,dial,see-through,manipulate,5
+14,1,dial,none,check state,0
+14,1,dial,static,check state,6
+14,1,dial,dynamic,check state,4
+14,1,dial,cloned,check state,4
+14,1,dial,see-through,check state,6
+14,1,dial,none,ranking,4
+14,1,dial,static,ranking,0
+14,1,dial,dynamic,ranking,3
+14,1,dial,cloned,ranking,2
+14,1,dial,see-through,ranking,1
+14,2,slider,none,liked overall,0
+14,2,slider,static,liked overall,5
+14,2,slider,dynamic,liked overall,2
+14,2,slider,cloned,liked overall,5
+14,2,slider,see-through,liked overall,5
+14,2,slider,none,supported,0
+14,2,slider,static,supported,5
+14,2,slider,dynamic,supported,0
+14,2,slider,cloned,supported,5
+14,2,slider,see-through,supported,5
+14,2,slider,none,manipulate,0
+14,2,slider,static,manipulate,5
+14,2,slider,dynamic,manipulate,2
+14,2,slider,cloned,manipulate,5
+14,2,slider,see-through,manipulate,6
+14,2,slider,none,check state,0
+14,2,slider,static,check state,5
+14,2,slider,dynamic,check state,1
+14,2,slider,cloned,check state,3
+14,2,slider,see-through,check state,5
+14,2,slider,none,ranking,4
+14,2,slider,static,ranking,0
+14,2,slider,dynamic,ranking,3
+14,2,slider,cloned,ranking,1
+14,2,slider,see-through,ranking,2
+14,3,button,none,liked overall,2
+14,3,button,static,liked overall,3
+14,3,button,dynamic,liked overall,4
+14,3,button,cloned,liked overall,5
+14,3,button,see-through,liked overall,5
+14,3,button,none,supported,0
+14,3,button,static,supported,2
+14,3,button,dynamic,supported,3
+14,3,button,cloned,supported,6
+14,3,button,see-through,supported,5
+14,3,button,none,manipulate,3
+14,3,button,static,manipulate,3
+14,3,button,dynamic,manipulate,4
+14,3,button,cloned,manipulate,6
+14,3,button,see-through,manipulate,5
+14,3,button,none,check state,2
+14,3,button,static,check state,3
+14,3,button,dynamic,check state,4
+14,3,button,cloned,check state,6
+14,3,button,see-through,check state,5
+14,3,button,none,ranking,4
+14,3,button,static,ranking,3
+14,3,button,dynamic,ranking,1
+14,3,button,cloned,ranking,0
+14,3,button,see-through,ranking,2
+14,4,hook,none,liked overall,0
+14,4,hook,static,liked overall,5
+14,4,hook,dynamic,liked overall,5
+14,4,hook,cloned,liked overall,4
+14,4,hook,see-through,liked overall,4
+14,4,hook,none,supported,0
+14,4,hook,static,supported,5
+14,4,hook,dynamic,supported,3
+14,4,hook,cloned,supported,3
+14,4,hook,see-through,supported,4
+14,4,hook,none,manipulate,5
+14,4,hook,static,manipulate,6
+14,4,hook,dynamic,manipulate,4
+14,4,hook,cloned,manipulate,3
+14,4,hook,see-through,manipulate,5
+14,4,hook,none,check state,3
+14,4,hook,static,check state,6
+14,4,hook,dynamic,check state,4
+14,4,hook,cloned,check state,5
+14,4,hook,see-through,check state,5
+14,4,hook,none,ranking,4
+14,4,hook,static,ranking,0
+14,4,hook,dynamic,ranking,2
+14,4,hook,cloned,ranking,1
+14,4,hook,see-through,ranking,3
+14,5,hdmi,none,liked overall,0
+14,5,hdmi,static,liked overall,4
+14,5,hdmi,dynamic,liked overall,3
+14,5,hdmi,cloned,liked overall,4
+14,5,hdmi,see-through,liked overall,5
+14,5,hdmi,none,supported,0
+14,5,hdmi,static,supported,5
+14,5,hdmi,dynamic,supported,2
+14,5,hdmi,cloned,supported,5
+14,5,hdmi,see-through,supported,5
+14,5,hdmi,none,manipulate,0
+14,5,hdmi,static,manipulate,2
+14,5,hdmi,dynamic,manipulate,1
+14,5,hdmi,cloned,manipulate,5
+14,5,hdmi,see-through,manipulate,5
+14,5,hdmi,none,check state,0
+14,5,hdmi,static,check state,5
+14,5,hdmi,dynamic,check state,4
+14,5,hdmi,cloned,check state,5
+14,5,hdmi,see-through,check state,6
+14,5,hdmi,none,ranking,4
+14,5,hdmi,static,ranking,2
+14,5,hdmi,dynamic,ranking,3
+14,5,hdmi,cloned,ranking,1
+14,5,hdmi,see-through,ranking,0
+14,99,,none,rating,0
+14,99,,static,rating,4
+14,99,,dynamic,rating,4
+14,99,,cloned,rating,5
+14,99,,see-through,rating,6
+14,99,,none,ranking,4
+14,99,,static,ranking,2
+14,99,,dynamic,ranking,3
+14,99,,cloned,ranking,1
+14,99,,see-through,ranking,0
+15,1,hdmi,none,liked overall,6
+15,1,hdmi,static,liked overall,3
+15,1,hdmi,dynamic,liked overall,2
+15,1,hdmi,cloned,liked overall,5
+15,1,hdmi,see-through,liked overall,4
+15,1,hdmi,none,supported,2
+15,1,hdmi,static,supported,3
+15,1,hdmi,dynamic,supported,2
+15,1,hdmi,cloned,supported,5
+15,1,hdmi,see-through,supported,4
+15,1,hdmi,none,manipulate,4
+15,1,hdmi,static,manipulate,2
+15,1,hdmi,dynamic,manipulate,2
+15,1,hdmi,cloned,manipulate,4
+15,1,hdmi,see-through,manipulate,3
+15,1,hdmi,none,check state,2
+15,1,hdmi,static,check state,2
+15,1,hdmi,dynamic,check state,2
+15,1,hdmi,cloned,check state,5
+15,1,hdmi,see-through,check state,3
+15,1,hdmi,none,ranking,4
+15,1,hdmi,static,ranking,2
+15,1,hdmi,dynamic,ranking,3
+15,1,hdmi,cloned,ranking,0
+15,1,hdmi,see-through,ranking,1
+15,2,hook,none,liked overall,5
+15,2,hook,static,liked overall,5
+15,2,hook,dynamic,liked overall,5
+15,2,hook,cloned,liked overall,2
+15,2,hook,see-through,liked overall,2
+15,2,hook,none,supported,1
+15,2,hook,static,supported,4
+15,2,hook,dynamic,supported,5
+15,2,hook,cloned,supported,3
+15,2,hook,see-through,supported,2
+15,2,hook,none,manipulate,1
+15,2,hook,static,manipulate,4
+15,2,hook,dynamic,manipulate,5
+15,2,hook,cloned,manipulate,2
+15,2,hook,see-through,manipulate,2
+15,2,hook,none,check state,2
+15,2,hook,static,check state,3
+15,2,hook,dynamic,check state,4
+15,2,hook,cloned,check state,2
+15,2,hook,see-through,check state,2
+15,2,hook,none,ranking,4
+15,2,hook,static,ranking,1
+15,2,hook,dynamic,ranking,0
+15,2,hook,cloned,ranking,2
+15,2,hook,see-through,ranking,3
+15,3,button,none,liked overall,5
+15,3,button,static,liked overall,1
+15,3,button,dynamic,liked overall,1
+15,3,button,cloned,liked overall,1
+15,3,button,see-through,liked overall,1
+15,3,button,none,supported,4
+15,3,button,static,supported,1
+15,3,button,dynamic,supported,0
+15,3,button,cloned,supported,1
+15,3,button,see-through,supported,1
+15,3,button,none,manipulate,5
+15,3,button,static,manipulate,5
+15,3,button,dynamic,manipulate,2
+15,3,button,cloned,manipulate,5
+15,3,button,see-through,manipulate,5
+15,3,button,none,check state,5
+15,3,button,static,check state,2
+15,3,button,dynamic,check state,2
+15,3,button,cloned,check state,3
+15,3,button,see-through,check state,3
+15,3,button,none,ranking,0
+15,3,button,static,ranking,2
+15,3,button,dynamic,ranking,4
+15,3,button,cloned,ranking,1
+15,3,button,see-through,ranking,3
+15,4,dial,none,liked overall,1
+15,4,dial,static,liked overall,4
+15,4,dial,dynamic,liked overall,2
+15,4,dial,cloned,liked overall,4
+15,4,dial,see-through,liked overall,5
+15,4,dial,none,supported,1
+15,4,dial,static,supported,2
+15,4,dial,dynamic,supported,1
+15,4,dial,cloned,supported,4
+15,4,dial,see-through,supported,5
+15,4,dial,none,manipulate,5
+15,4,dial,static,manipulate,4
+15,4,dial,dynamic,manipulate,3
+15,4,dial,cloned,manipulate,5
+15,4,dial,see-through,manipulate,5
+15,4,dial,none,check state,0
+15,4,dial,static,check state,4
+15,4,dial,dynamic,check state,3
+15,4,dial,cloned,check state,5
+15,4,dial,see-through,check state,6
+15,4,dial,none,ranking,4
+15,4,dial,static,ranking,2
+15,4,dial,dynamic,ranking,3
+15,4,dial,cloned,ranking,1
+15,4,dial,see-through,ranking,0
+15,5,slider,none,liked overall,1
+15,5,slider,static,liked overall,2
+15,5,slider,dynamic,liked overall,1
+15,5,slider,cloned,liked overall,5
+15,5,slider,see-through,liked overall,4
+15,5,slider,none,supported,1
+15,5,slider,static,supported,3
+15,5,slider,dynamic,supported,2
+15,5,slider,cloned,supported,6
+15,5,slider,see-through,supported,5
+15,5,slider,none,manipulate,4
+15,5,slider,static,manipulate,4
+15,5,slider,dynamic,manipulate,4
+15,5,slider,cloned,manipulate,6
+15,5,slider,see-through,manipulate,5
+15,5,slider,none,check state,1
+15,5,slider,static,check state,2
+15,5,slider,dynamic,check state,1
+15,5,slider,cloned,check state,6
+15,5,slider,see-through,check state,5
+15,5,slider,none,ranking,4
+15,5,slider,static,ranking,2
+15,5,slider,dynamic,ranking,3
+15,5,slider,cloned,ranking,0
+15,5,slider,see-through,ranking,1
+15,99,,none,rating,1
+15,99,,static,rating,3
+15,99,,dynamic,rating,2
+15,99,,cloned,rating,4
+15,99,,see-through,rating,4
+15,99,,none,ranking,4
+15,99,,static,ranking,2
+15,99,,dynamic,ranking,3
+15,99,,cloned,ranking,0
+15,99,,see-through,ranking,1
+16,1,slider,none,liked overall,0
+16,1,slider,static,liked overall,2
+16,1,slider,dynamic,liked overall,5
+16,1,slider,cloned,liked overall,6
+16,1,slider,see-through,liked overall,6
+16,1,slider,none,supported,0
+16,1,slider,static,supported,2
+16,1,slider,dynamic,supported,5
+16,1,slider,cloned,supported,6
+16,1,slider,see-through,supported,5
+16,1,slider,none,manipulate,1
+16,1,slider,static,manipulate,2
+16,1,slider,dynamic,manipulate,5
+16,1,slider,cloned,manipulate,6
+16,1,slider,see-through,manipulate,6
+16,1,slider,none,check state,0
+16,1,slider,static,check state,3
+16,1,slider,dynamic,check state,5
+16,1,slider,cloned,check state,6
+16,1,slider,see-through,check state,6
+16,1,slider,none,ranking,4
+16,1,slider,static,ranking,3
+16,1,slider,dynamic,ranking,2
+16,1,slider,cloned,ranking,0
+16,1,slider,see-through,ranking,1
+16,2,button,none,liked overall,6
+16,2,button,static,liked overall,3
+16,2,button,dynamic,liked overall,3
+16,2,button,cloned,liked overall,5
+16,2,button,see-through,liked overall,6
+16,2,button,none,supported,0
+16,2,button,static,supported,4
+16,2,button,dynamic,supported,3
+16,2,button,cloned,supported,5
+16,2,button,see-through,supported,6
+16,2,button,none,manipulate,6
+16,2,button,static,manipulate,4
+16,2,button,dynamic,manipulate,2
+16,2,button,cloned,manipulate,5
+16,2,button,see-through,manipulate,6
+16,2,button,none,check state,0
+16,2,button,static,check state,5
+16,2,button,dynamic,check state,3
+16,2,button,cloned,check state,6
+16,2,button,see-through,check state,6
+16,2,button,none,ranking,3
+16,2,button,static,ranking,2
+16,2,button,dynamic,ranking,4
+16,2,button,cloned,ranking,1
+16,2,button,see-through,ranking,0
+16,3,dial,none,liked overall,0
+16,3,dial,static,liked overall,4
+16,3,dial,dynamic,liked overall,1
+16,3,dial,cloned,liked overall,6
+16,3,dial,see-through,liked overall,6
+16,3,dial,none,supported,0
+16,3,dial,static,supported,4
+16,3,dial,dynamic,supported,3
+16,3,dial,cloned,supported,6
+16,3,dial,see-through,supported,6
+16,3,dial,none,manipulate,0
+16,3,dial,static,manipulate,4
+16,3,dial,dynamic,manipulate,2
+16,3,dial,cloned,manipulate,6
+16,3,dial,see-through,manipulate,6
+16,3,dial,none,check state,0
+16,3,dial,static,check state,5
+16,3,dial,dynamic,check state,3
+16,3,dial,cloned,check state,6
+16,3,dial,see-through,check state,6
+16,3,dial,none,ranking,4
+16,3,dial,static,ranking,2
+16,3,dial,dynamic,ranking,3
+16,3,dial,cloned,ranking,0
+16,3,dial,see-through,ranking,1
+16,4,hdmi,none,liked overall,0
+16,4,hdmi,static,liked overall,6
+16,4,hdmi,dynamic,liked overall,5
+16,4,hdmi,cloned,liked overall,5
+16,4,hdmi,see-through,liked overall,6
+16,4,hdmi,none,supported,0
+16,4,hdmi,static,supported,6
+16,4,hdmi,dynamic,supported,5
+16,4,hdmi,cloned,supported,6
+16,4,hdmi,see-through,supported,6
+16,4,hdmi,none,manipulate,0
+16,4,hdmi,static,manipulate,6
+16,4,hdmi,dynamic,manipulate,5
+16,4,hdmi,cloned,manipulate,6
+16,4,hdmi,see-through,manipulate,6
+16,4,hdmi,none,check state,0
+16,4,hdmi,static,check state,6
+16,4,hdmi,dynamic,check state,6
+16,4,hdmi,cloned,check state,6
+16,4,hdmi,see-through,check state,6
+16,4,hdmi,none,ranking,4
+16,4,hdmi,static,ranking,1
+16,4,hdmi,dynamic,ranking,3
+16,4,hdmi,cloned,ranking,0
+16,4,hdmi,see-through,ranking,2
+16,5,hook,none,liked overall,0
+16,5,hook,static,liked overall,6
+16,5,hook,dynamic,liked overall,6
+16,5,hook,cloned,liked overall,6
+16,5,hook,see-through,liked overall,5
+16,5,hook,none,supported,0
+16,5,hook,static,supported,6
+16,5,hook,dynamic,supported,6
+16,5,hook,cloned,supported,6
+16,5,hook,see-through,supported,5
+16,5,hook,none,manipulate,0
+16,5,hook,static,manipulate,6
+16,5,hook,dynamic,manipulate,6
+16,5,hook,cloned,manipulate,6
+16,5,hook,see-through,manipulate,6
+16,5,hook,none,check state,0
+16,5,hook,static,check state,6
+16,5,hook,dynamic,check state,6
+16,5,hook,cloned,check state,6
+16,5,hook,see-through,check state,6
+16,5,hook,none,ranking,4
+16,5,hook,static,ranking,0
+16,5,hook,dynamic,ranking,2
+16,5,hook,cloned,ranking,1
+16,5,hook,see-through,ranking,3
+16,99,,none,rating,0
+16,99,,static,rating,5
+16,99,,dynamic,rating,5
+16,99,,cloned,rating,6
+16,99,,see-through,rating,6
+16,99,,none,ranking,4
+16,99,,static,ranking,2
+16,99,,dynamic,ranking,3
+16,99,,cloned,ranking,0
+16,99,,see-through,ranking,1
+17,1,hdmi,none,liked overall,3
+17,1,hdmi,static,liked overall,4
+17,1,hdmi,dynamic,liked overall,0
+17,1,hdmi,cloned,liked overall,6
+17,1,hdmi,see-through,liked overall,5
+17,1,hdmi,none,supported,3
+17,1,hdmi,static,supported,4
+17,1,hdmi,dynamic,supported,1
+17,1,hdmi,cloned,supported,4
+17,1,hdmi,see-through,supported,5
+17,1,hdmi,none,manipulate,3
+17,1,hdmi,static,manipulate,4
+17,1,hdmi,dynamic,manipulate,3
+17,1,hdmi,cloned,manipulate,5
+17,1,hdmi,see-through,manipulate,4
+17,1,hdmi,none,check state,0
+17,1,hdmi,static,check state,5
+17,1,hdmi,dynamic,check state,2
+17,1,hdmi,cloned,check state,4
+17,1,hdmi,see-through,check state,5
+17,1,hdmi,none,ranking,3
+17,1,hdmi,static,ranking,1
+17,1,hdmi,dynamic,ranking,2
+17,1,hdmi,cloned,ranking,4
+17,1,hdmi,see-through,ranking,0
+17,2,hook,none,liked overall,3
+17,2,hook,static,liked overall,4
+17,2,hook,dynamic,liked overall,1
+17,2,hook,cloned,liked overall,2
+17,2,hook,see-through,liked overall,4
+17,2,hook,none,supported,5
+17,2,hook,static,supported,4
+17,2,hook,dynamic,supported,1
+17,2,hook,cloned,supported,5
+17,2,hook,see-through,supported,4
+17,2,hook,none,manipulate,3
+17,2,hook,static,manipulate,4
+17,2,hook,dynamic,manipulate,2
+17,2,hook,cloned,manipulate,4
+17,2,hook,see-through,manipulate,3
+17,2,hook,none,check state,0
+17,2,hook,static,check state,4
+17,2,hook,dynamic,check state,1
+17,2,hook,cloned,check state,4
+17,2,hook,see-through,check state,4
+17,2,hook,none,ranking,3
+17,2,hook,static,ranking,1
+17,2,hook,dynamic,ranking,4
+17,2,hook,cloned,ranking,0
+17,2,hook,see-through,ranking,2
+17,3,slider,none,liked overall,0
+17,3,slider,static,liked overall,2
+17,3,slider,dynamic,liked overall,4
+17,3,slider,cloned,liked overall,4
+17,3,slider,see-through,liked overall,4
+17,3,slider,none,supported,0
+17,3,slider,static,supported,4
+17,3,slider,dynamic,supported,4
+17,3,slider,cloned,supported,4
+17,3,slider,see-through,supported,4
+17,3,slider,none,manipulate,0
+17,3,slider,static,manipulate,4
+17,3,slider,dynamic,manipulate,5
+17,3,slider,cloned,manipulate,4
+17,3,slider,see-through,manipulate,5
+17,3,slider,none,check state,0
+17,3,slider,static,check state,4
+17,3,slider,dynamic,check state,5
+17,3,slider,cloned,check state,4
+17,3,slider,see-through,check state,4
+17,3,slider,none,ranking,4
+17,3,slider,static,ranking,3
+17,3,slider,dynamic,ranking,0
+17,3,slider,cloned,ranking,1
+17,3,slider,see-through,ranking,2
+17,4,dial,none,liked overall,0
+17,4,dial,static,liked overall,5
+17,4,dial,dynamic,liked overall,3
+17,4,dial,cloned,liked overall,5
+17,4,dial,see-through,liked overall,5
+17,4,dial,none,supported,0
+17,4,dial,static,supported,4
+17,4,dial,dynamic,supported,1
+17,4,dial,cloned,supported,5
+17,4,dial,see-through,supported,4
+17,4,dial,none,manipulate,2
+17,4,dial,static,manipulate,4
+17,4,dial,dynamic,manipulate,4
+17,4,dial,cloned,manipulate,4
+17,4,dial,see-through,manipulate,4
+17,4,dial,none,check state,0
+17,4,dial,static,check state,4
+17,4,dial,dynamic,check state,4
+17,4,dial,cloned,check state,2
+17,4,dial,see-through,check state,4
+17,4,dial,none,ranking,4
+17,4,dial,static,ranking,0
+17,4,dial,dynamic,ranking,3
+17,4,dial,cloned,ranking,1
+17,4,dial,see-through,ranking,2
+17,5,button,none,liked overall,3
+17,5,button,static,liked overall,3
+17,5,button,dynamic,liked overall,3
+17,5,button,cloned,liked overall,3
+17,5,button,see-through,liked overall,3
+17,5,button,none,supported,3
+17,5,button,static,supported,3
+17,5,button,dynamic,supported,3
+17,5,button,cloned,supported,3
+17,5,button,see-through,supported,3
+17,5,button,none,manipulate,3
+17,5,button,static,manipulate,3
+17,5,button,dynamic,manipulate,3
+17,5,button,cloned,manipulate,3
+17,5,button,see-through,manipulate,3
+17,5,button,none,check state,3
+17,5,button,static,check state,3
+17,5,button,dynamic,check state,3
+17,5,button,cloned,check state,3
+17,5,button,see-through,check state,3
+17,5,button,none,ranking,0
+17,5,button,static,ranking,1
+17,5,button,dynamic,ranking,2
+17,5,button,cloned,ranking,3
+17,5,button,see-through,ranking,4
+17,99,,none,rating,2
+17,99,,static,rating,4
+17,99,,dynamic,rating,4
+17,99,,cloned,rating,4
+17,99,,see-through,rating,4
+17,99,,none,ranking,4
+17,99,,static,ranking,0
+17,99,,dynamic,ranking,2
+17,99,,cloned,ranking,1
+17,99,,see-through,ranking,3
+18,1,slider,none,liked overall,2
+18,1,slider,static,liked overall,4
+18,1,slider,dynamic,liked overall,1
+18,1,slider,cloned,liked overall,4
+18,1,slider,see-through,liked overall,5
+18,1,slider,none,supported,2
+18,1,slider,static,supported,4
+18,1,slider,dynamic,supported,1
+18,1,slider,cloned,supported,4
+18,1,slider,see-through,supported,5
+18,1,slider,none,manipulate,2
+18,1,slider,static,manipulate,3
+18,1,slider,dynamic,manipulate,2
+18,1,slider,cloned,manipulate,4
+18,1,slider,see-through,manipulate,5
+18,1,slider,none,check state,1
+18,1,slider,static,check state,5
+18,1,slider,dynamic,check state,2
+18,1,slider,cloned,check state,5
+18,1,slider,see-through,check state,5
+18,1,slider,none,ranking,3
+18,1,slider,static,ranking,2
+18,1,slider,dynamic,ranking,4
+18,1,slider,cloned,ranking,1
+18,1,slider,see-through,ranking,0
+18,2,dial,none,liked overall,1
+18,2,dial,static,liked overall,4
+18,2,dial,dynamic,liked overall,2
+18,2,dial,cloned,liked overall,5
+18,2,dial,see-through,liked overall,5
+18,2,dial,none,supported,1
+18,2,dial,static,supported,5
+18,2,dial,dynamic,supported,2
+18,2,dial,cloned,supported,5
+18,2,dial,see-through,supported,5
+18,2,dial,none,manipulate,5
+18,2,dial,static,manipulate,6
+18,2,dial,dynamic,manipulate,3
+18,2,dial,cloned,manipulate,6
+18,2,dial,see-through,manipulate,6
+18,2,dial,none,check state,1
+18,2,dial,static,check state,5
+18,2,dial,dynamic,check state,3
+18,2,dial,cloned,check state,6
+18,2,dial,see-through,check state,6
+18,2,dial,none,ranking,4
+18,2,dial,static,ranking,2
+18,2,dial,dynamic,ranking,3
+18,2,dial,cloned,ranking,0
+18,2,dial,see-through,ranking,1
+18,3,button,none,liked overall,4
+18,3,button,static,liked overall,3
+18,3,button,dynamic,liked overall,3
+18,3,button,cloned,liked overall,5
+18,3,button,see-through,liked overall,5
+18,3,button,none,supported,3
+18,3,button,static,supported,2
+18,3,button,dynamic,supported,2
+18,3,button,cloned,supported,5
+18,3,button,see-through,supported,5
+18,3,button,none,manipulate,5
+18,3,button,static,manipulate,4
+18,3,button,dynamic,manipulate,4
+18,3,button,cloned,manipulate,5
+18,3,button,see-through,manipulate,5
+18,3,button,none,check state,3
+18,3,button,static,check state,2
+18,3,button,dynamic,check state,3
+18,3,button,cloned,check state,5
+18,3,button,see-through,check state,6
+18,3,button,none,ranking,2
+18,3,button,static,ranking,3
+18,3,button,dynamic,ranking,4
+18,3,button,cloned,ranking,0
+18,3,button,see-through,ranking,1
+18,4,hdmi,none,liked overall,4
+18,4,hdmi,static,liked overall,2
+18,4,hdmi,dynamic,liked overall,2
+18,4,hdmi,cloned,liked overall,5
+18,4,hdmi,see-through,liked overall,5
+18,4,hdmi,none,supported,3
+18,4,hdmi,static,supported,1
+18,4,hdmi,dynamic,supported,2
+18,4,hdmi,cloned,supported,5
+18,4,hdmi,see-through,supported,5
+18,4,hdmi,none,manipulate,4
+18,4,hdmi,static,manipulate,1
+18,4,hdmi,dynamic,manipulate,1
+18,4,hdmi,cloned,manipulate,5
+18,4,hdmi,see-through,manipulate,5
+18,4,hdmi,none,check state,4
+18,4,hdmi,static,check state,1
+18,4,hdmi,dynamic,check state,2
+18,4,hdmi,cloned,check state,5
+18,4,hdmi,see-through,check state,5
+18,4,hdmi,none,ranking,2
+18,4,hdmi,static,ranking,4
+18,4,hdmi,dynamic,ranking,3
+18,4,hdmi,cloned,ranking,1
+18,4,hdmi,see-through,ranking,0
+18,5,hook,none,liked overall,4
+18,5,hook,static,liked overall,3
+18,5,hook,dynamic,liked overall,4
+18,5,hook,cloned,liked overall,5
+18,5,hook,see-through,liked overall,5
+18,5,hook,none,supported,3
+18,5,hook,static,supported,2
+18,5,hook,dynamic,supported,3
+18,5,hook,cloned,supported,4
+18,5,hook,see-through,supported,4
+18,5,hook,none,manipulate,3
+18,5,hook,static,manipulate,2
+18,5,hook,dynamic,manipulate,2
+18,5,hook,cloned,manipulate,3
+18,5,hook,see-through,manipulate,4
+18,5,hook,none,check state,4
+18,5,hook,static,check state,2
+18,5,hook,dynamic,check state,3
+18,5,hook,cloned,check state,4
+18,5,hook,see-through,check state,4
+18,5,hook,none,ranking,3
+18,5,hook,static,ranking,4
+18,5,hook,dynamic,ranking,2
+18,5,hook,cloned,ranking,0
+18,5,hook,see-through,ranking,1
+18,99,,none,rating,3
+18,99,,static,rating,2
+18,99,,dynamic,rating,1
+18,99,,cloned,rating,4
+18,99,,see-through,rating,5
+18,99,,none,ranking,3
+18,99,,static,ranking,2
+18,99,,dynamic,ranking,4
+18,99,,cloned,ranking,1
+18,99,,see-through,ranking,0
+19,1,button,none,liked overall,4
+19,1,button,static,liked overall,4
+19,1,button,dynamic,liked overall,2
+19,1,button,cloned,liked overall,6
+19,1,button,see-through,liked overall,6
+19,1,button,none,supported,0
+19,1,button,static,supported,3
+19,1,button,dynamic,supported,2
+19,1,button,cloned,supported,5
+19,1,button,see-through,supported,5
+19,1,button,none,manipulate,3
+19,1,button,static,manipulate,2
+19,1,button,dynamic,manipulate,2
+19,1,button,cloned,manipulate,4
+19,1,button,see-through,manipulate,5
+19,1,button,none,check state,2
+19,1,button,static,check state,2
+19,1,button,dynamic,check state,4
+19,1,button,cloned,check state,4
+19,1,button,see-through,check state,6
+19,1,button,none,ranking,4
+19,1,button,static,ranking,2
+19,1,button,dynamic,ranking,3
+19,1,button,cloned,ranking,1
+19,1,button,see-through,ranking,0
+19,2,slider,none,liked overall,0
+19,2,slider,static,liked overall,3
+19,2,slider,dynamic,liked overall,1
+19,2,slider,cloned,liked overall,5
+19,2,slider,see-through,liked overall,5
+19,2,slider,none,supported,0
+19,2,slider,static,supported,5
+19,2,slider,dynamic,supported,3
+19,2,slider,cloned,supported,5
+19,2,slider,see-through,supported,5
+19,2,slider,none,manipulate,0
+19,2,slider,static,manipulate,5
+19,2,slider,dynamic,manipulate,3
+19,2,slider,cloned,manipulate,6
+19,2,slider,see-through,manipulate,6
+19,2,slider,none,check state,0
+19,2,slider,static,check state,6
+19,2,slider,dynamic,check state,2
+19,2,slider,cloned,check state,6
+19,2,slider,see-through,check state,6
+19,2,slider,none,ranking,4
+19,2,slider,static,ranking,2
+19,2,slider,dynamic,ranking,3
+19,2,slider,cloned,ranking,1
+19,2,slider,see-through,ranking,0
+19,3,dial,none,liked overall,0
+19,3,dial,static,liked overall,5
+19,3,dial,dynamic,liked overall,3
+19,3,dial,cloned,liked overall,5
+19,3,dial,see-through,liked overall,5
+19,3,dial,none,supported,0
+19,3,dial,static,supported,5
+19,3,dial,dynamic,supported,3
+19,3,dial,cloned,supported,5
+19,3,dial,see-through,supported,5
+19,3,dial,none,manipulate,3
+19,3,dial,static,manipulate,6
+19,3,dial,dynamic,manipulate,5
+19,3,dial,cloned,manipulate,6
+19,3,dial,see-through,manipulate,6
+19,3,dial,none,check state,0
+19,3,dial,static,check state,6
+19,3,dial,dynamic,check state,3
+19,3,dial,cloned,check state,6
+19,3,dial,see-through,check state,6
+19,3,dial,none,ranking,4
+19,3,dial,static,ranking,2
+19,3,dial,dynamic,ranking,3
+19,3,dial,cloned,ranking,0
+19,3,dial,see-through,ranking,1
+19,4,hdmi,none,liked overall,1
+19,4,hdmi,static,liked overall,3
+19,4,hdmi,dynamic,liked overall,5
+19,4,hdmi,cloned,liked overall,6
+19,4,hdmi,see-through,liked overall,5
+19,4,hdmi,none,supported,0
+19,4,hdmi,static,supported,3
+19,4,hdmi,dynamic,supported,4
+19,4,hdmi,cloned,supported,6
+19,4,hdmi,see-through,supported,5
+19,4,hdmi,none,manipulate,0
+19,4,hdmi,static,manipulate,2
+19,4,hdmi,dynamic,manipulate,4
+19,4,hdmi,cloned,manipulate,6
+19,4,hdmi,see-through,manipulate,5
+19,4,hdmi,none,check state,1
+19,4,hdmi,static,check state,5
+19,4,hdmi,dynamic,check state,5
+19,4,hdmi,cloned,check state,6
+19,4,hdmi,see-through,check state,6
+19,4,hdmi,none,ranking,4
+19,4,hdmi,static,ranking,3
+19,4,hdmi,dynamic,ranking,2
+19,4,hdmi,cloned,ranking,0
+19,4,hdmi,see-through,ranking,1
+19,5,hook,none,liked overall,2
+19,5,hook,static,liked overall,4
+19,5,hook,dynamic,liked overall,6
+19,5,hook,cloned,liked overall,6
+19,5,hook,see-through,liked overall,6
+19,5,hook,none,supported,0
+19,5,hook,static,supported,3
+19,5,hook,dynamic,supported,6
+19,5,hook,cloned,supported,6
+19,5,hook,see-through,supported,6
+19,5,hook,none,manipulate,1
+19,5,hook,static,manipulate,4
+19,5,hook,dynamic,manipulate,6
+19,5,hook,cloned,manipulate,6
+19,5,hook,see-through,manipulate,6
+19,5,hook,none,check state,0
+19,5,hook,static,check state,5
+19,5,hook,dynamic,check state,6
+19,5,hook,cloned,check state,6
+19,5,hook,see-through,check state,6
+19,5,hook,none,ranking,4
+19,5,hook,static,ranking,3
+19,5,hook,dynamic,ranking,0
+19,5,hook,cloned,ranking,1
+19,5,hook,see-through,ranking,2
+19,99,,none,rating,1
+19,99,,static,rating,4
+19,99,,dynamic,rating,3
+19,99,,cloned,rating,6
+19,99,,see-through,rating,6
+19,99,,none,ranking,4
+19,99,,static,ranking,2
+19,99,,dynamic,ranking,3
+19,99,,cloned,ranking,0
+19,99,,see-through,ranking,1
+20,1,hook,none,liked overall,0
+20,1,hook,static,liked overall,3
+20,1,hook,dynamic,liked overall,5
+20,1,hook,cloned,liked overall,5
+20,1,hook,see-through,liked overall,6
+20,1,hook,none,supported,3
+20,1,hook,static,supported,5
+20,1,hook,dynamic,supported,5
+20,1,hook,cloned,supported,5
+20,1,hook,see-through,supported,5
+20,1,hook,none,manipulate,2
+20,1,hook,static,manipulate,3
+20,1,hook,dynamic,manipulate,5
+20,1,hook,cloned,manipulate,6
+20,1,hook,see-through,manipulate,5
+20,1,hook,none,check state,1
+20,1,hook,static,check state,4
+20,1,hook,dynamic,check state,5
+20,1,hook,cloned,check state,5
+20,1,hook,see-through,check state,6
+20,1,hook,none,ranking,4
+20,1,hook,static,ranking,3
+20,1,hook,dynamic,ranking,0
+20,1,hook,cloned,ranking,1
+20,1,hook,see-through,ranking,2
+20,2,hdmi,none,liked overall,5
+20,2,hdmi,static,liked overall,6
+20,2,hdmi,dynamic,liked overall,6
+20,2,hdmi,cloned,liked overall,6
+20,2,hdmi,see-through,liked overall,6
+20,2,hdmi,none,supported,5
+20,2,hdmi,static,supported,6
+20,2,hdmi,dynamic,supported,6
+20,2,hdmi,cloned,supported,6
+20,2,hdmi,see-through,supported,6
+20,2,hdmi,none,manipulate,5
+20,2,hdmi,static,manipulate,6
+20,2,hdmi,dynamic,manipulate,6
+20,2,hdmi,cloned,manipulate,6
+20,2,hdmi,see-through,manipulate,6
+20,2,hdmi,none,check state,5
+20,2,hdmi,static,check state,6
+20,2,hdmi,dynamic,check state,6
+20,2,hdmi,cloned,check state,6
+20,2,hdmi,see-through,check state,6
+20,2,hdmi,none,ranking,4
+20,2,hdmi,static,ranking,2
+20,2,hdmi,dynamic,ranking,1
+20,2,hdmi,cloned,ranking,0
+20,2,hdmi,see-through,ranking,3
+20,3,button,none,liked overall,3
+20,3,button,static,liked overall,3
+20,3,button,dynamic,liked overall,3
+20,3,button,cloned,liked overall,4
+20,3,button,see-through,liked overall,3
+20,3,button,none,supported,3
+20,3,button,static,supported,3
+20,3,button,dynamic,supported,3
+20,3,button,cloned,supported,4
+20,3,button,see-through,supported,3
+20,3,button,none,manipulate,3
+20,3,button,static,manipulate,3
+20,3,button,dynamic,manipulate,3
+20,3,button,cloned,manipulate,4
+20,3,button,see-through,manipulate,3
+20,3,button,none,check state,3
+20,3,button,static,check state,3
+20,3,button,dynamic,check state,3
+20,3,button,cloned,check state,4
+20,3,button,see-through,check state,3
+20,3,button,none,ranking,4
+20,3,button,static,ranking,3
+20,3,button,dynamic,ranking,1
+20,3,button,cloned,ranking,0
+20,3,button,see-through,ranking,2
+20,4,dial,none,liked overall,3
+20,4,dial,static,liked overall,5
+20,4,dial,dynamic,liked overall,6
+20,4,dial,cloned,liked overall,6
+20,4,dial,see-through,liked overall,0
+20,4,dial,none,supported,4
+20,4,dial,static,supported,5
+20,4,dial,dynamic,supported,6
+20,4,dial,cloned,supported,5
+20,4,dial,see-through,supported,2
+20,4,dial,none,manipulate,2
+20,4,dial,static,manipulate,5
+20,4,dial,dynamic,manipulate,6
+20,4,dial,cloned,manipulate,6
+20,4,dial,see-through,manipulate,0
+20,4,dial,none,check state,4
+20,4,dial,static,check state,6
+20,4,dial,dynamic,check state,6
+20,4,dial,cloned,check state,6
+20,4,dial,see-through,check state,1
+20,4,dial,none,ranking,4
+20,4,dial,static,ranking,1
+20,4,dial,dynamic,ranking,2
+20,4,dial,cloned,ranking,0
+20,4,dial,see-through,ranking,3
+20,5,slider,none,liked overall,3
+20,5,slider,static,liked overall,6
+20,5,slider,dynamic,liked overall,6
+20,5,slider,cloned,liked overall,6
+20,5,slider,see-through,liked overall,2
+20,5,slider,none,supported,4
+20,5,slider,static,supported,6
+20,5,slider,dynamic,supported,6
+20,5,slider,cloned,supported,6
+20,5,slider,see-through,supported,2
+20,5,slider,none,manipulate,4
+20,5,slider,static,manipulate,6
+20,5,slider,dynamic,manipulate,5
+20,5,slider,cloned,manipulate,6
+20,5,slider,see-through,manipulate,3
+20,5,slider,none,check state,4
+20,5,slider,static,check state,6
+20,5,slider,dynamic,check state,5
+20,5,slider,cloned,check state,6
+20,5,slider,see-through,check state,2
+20,5,slider,none,ranking,4
+20,5,slider,static,ranking,1
+20,5,slider,dynamic,ranking,2
+20,5,slider,cloned,ranking,0
+20,5,slider,see-through,ranking,3
+20,99,,none,rating,4
+20,99,,static,rating,1
+20,99,,dynamic,rating,3
+20,99,,cloned,rating,6
+20,99,,see-through,rating,3
+20,99,,none,ranking,4
+20,99,,static,ranking,2
+20,99,,dynamic,ranking,1
+20,99,,cloned,ranking,0
+20,99,,see-through,ranking,3
+21,1,dial,none,liked overall,2
+21,1,dial,static,liked overall,5
+21,1,dial,dynamic,liked overall,0
+21,1,dial,cloned,liked overall,5
+21,1,dial,see-through,liked overall,3
+21,1,dial,none,supported,2
+21,1,dial,static,supported,5
+21,1,dial,dynamic,supported,2
+21,1,dial,cloned,supported,5
+21,1,dial,see-through,supported,4
+21,1,dial,none,manipulate,4
+21,1,dial,static,manipulate,4
+21,1,dial,dynamic,manipulate,2
+21,1,dial,cloned,manipulate,4
+21,1,dial,see-through,manipulate,5
+21,1,dial,none,check state,1
+21,1,dial,static,check state,5
+21,1,dial,dynamic,check state,1
+21,1,dial,cloned,check state,5
+21,1,dial,see-through,check state,5
+21,1,dial,none,ranking,3
+21,1,dial,static,ranking,0
+21,1,dial,dynamic,ranking,4
+21,1,dial,cloned,ranking,2
+21,1,dial,see-through,ranking,1
+21,2,button,none,liked overall,4
+21,2,button,static,liked overall,3
+21,2,button,dynamic,liked overall,5
+21,2,button,cloned,liked overall,5
+21,2,button,see-through,liked overall,3
+21,2,button,none,supported,4
+21,2,button,static,supported,3
+21,2,button,dynamic,supported,3
+21,2,button,cloned,supported,3
+21,2,button,see-through,supported,3
+21,2,button,none,manipulate,6
+21,2,button,static,manipulate,6
+21,2,button,dynamic,manipulate,6
+21,2,button,cloned,manipulate,6
+21,2,button,see-through,manipulate,6
+21,2,button,none,check state,6
+21,2,button,static,check state,6
+21,2,button,dynamic,check state,6
+21,2,button,cloned,check state,6
+21,2,button,see-through,check state,6
+21,2,button,none,ranking,2
+21,2,button,static,ranking,1
+21,2,button,dynamic,ranking,4
+21,2,button,cloned,ranking,0
+21,2,button,see-through,ranking,3
+21,3,slider,none,liked overall,1
+21,3,slider,static,liked overall,4
+21,3,slider,dynamic,liked overall,1
+21,3,slider,cloned,liked overall,5
+21,3,slider,see-through,liked overall,3
+21,3,slider,none,supported,2
+21,3,slider,static,supported,4
+21,3,slider,dynamic,supported,1
+21,3,slider,cloned,supported,6
+21,3,slider,see-through,supported,4
+21,3,slider,none,manipulate,3
+21,3,slider,static,manipulate,5
+21,3,slider,dynamic,manipulate,1
+21,3,slider,cloned,manipulate,6
+21,3,slider,see-through,manipulate,5
+21,3,slider,none,check state,2
+21,3,slider,static,check state,4
+21,3,slider,dynamic,check state,2
+21,3,slider,cloned,check state,6
+21,3,slider,see-through,check state,2
+21,3,slider,none,ranking,3
+21,3,slider,static,ranking,1
+21,3,slider,dynamic,ranking,4
+21,3,slider,cloned,ranking,0
+21,3,slider,see-through,ranking,2
+21,4,hdmi,none,liked overall,5
+21,4,hdmi,static,liked overall,4
+21,4,hdmi,dynamic,liked overall,4
+21,4,hdmi,cloned,liked overall,4
+21,4,hdmi,see-through,liked overall,4
+21,4,hdmi,none,supported,3
+21,4,hdmi,static,supported,4
+21,4,hdmi,dynamic,supported,4
+21,4,hdmi,cloned,supported,4
+21,4,hdmi,see-through,supported,4
+21,4,hdmi,none,manipulate,5
+21,4,hdmi,static,manipulate,5
+21,4,hdmi,dynamic,manipulate,5
+21,4,hdmi,cloned,manipulate,5
+21,4,hdmi,see-through,manipulate,5
+21,4,hdmi,none,check state,5
+21,4,hdmi,static,check state,5
+21,4,hdmi,dynamic,check state,5
+21,4,hdmi,cloned,check state,5
+21,4,hdmi,see-through,check state,5
+21,4,hdmi,none,ranking,0
+21,4,hdmi,static,ranking,3
+21,4,hdmi,dynamic,ranking,4
+21,4,hdmi,cloned,ranking,1
+21,4,hdmi,see-through,ranking,2
+21,5,hook,none,liked overall,1
+21,5,hook,static,liked overall,4
+21,5,hook,dynamic,liked overall,4
+21,5,hook,cloned,liked overall,4
+21,5,hook,see-through,liked overall,2
+21,5,hook,none,supported,1
+21,5,hook,static,supported,4
+21,5,hook,dynamic,supported,4
+21,5,hook,cloned,supported,4
+21,5,hook,see-through,supported,1
+21,5,hook,none,manipulate,1
+21,5,hook,static,manipulate,4
+21,5,hook,dynamic,manipulate,4
+21,5,hook,cloned,manipulate,4
+21,5,hook,see-through,manipulate,3
+21,5,hook,none,check state,1
+21,5,hook,static,check state,4
+21,5,hook,dynamic,check state,4
+21,5,hook,cloned,check state,4
+21,5,hook,see-through,check state,3
+21,5,hook,none,ranking,4
+21,5,hook,static,ranking,1
+21,5,hook,dynamic,ranking,2
+21,5,hook,cloned,ranking,0
+21,5,hook,see-through,ranking,3
+21,99,,none,rating,2
+21,99,,static,rating,5
+21,99,,dynamic,rating,1
+21,99,,cloned,rating,5
+21,99,,see-through,rating,5
+21,99,,none,ranking,3
+21,99,,static,ranking,0
+21,99,,dynamic,ranking,4
+21,99,,cloned,ranking,1
+21,99,,see-through,ranking,2
+22,1,hook,none,liked overall,1
+22,1,hook,static,liked overall,3
+22,1,hook,dynamic,liked overall,3
+22,1,hook,cloned,liked overall,5
+22,1,hook,see-through,liked overall,5
+22,1,hook,none,supported,1
+22,1,hook,static,supported,3
+22,1,hook,dynamic,supported,4
+22,1,hook,cloned,supported,5
+22,1,hook,see-through,supported,6
+22,1,hook,none,manipulate,1
+22,1,hook,static,manipulate,2
+22,1,hook,dynamic,manipulate,3
+22,1,hook,cloned,manipulate,5
+22,1,hook,see-through,manipulate,5
+22,1,hook,none,check state,1
+22,1,hook,static,check state,4
+22,1,hook,dynamic,check state,5
+22,1,hook,cloned,check state,5
+22,1,hook,see-through,check state,5
+22,1,hook,none,ranking,4
+22,1,hook,static,ranking,3
+22,1,hook,dynamic,ranking,2
+22,1,hook,cloned,ranking,0
+22,1,hook,see-through,ranking,1
+22,2,hdmi,none,liked overall,0
+22,2,hdmi,static,liked overall,3
+22,2,hdmi,dynamic,liked overall,6
+22,2,hdmi,cloned,liked overall,5
+22,2,hdmi,see-through,liked overall,2
+22,2,hdmi,none,supported,0
+22,2,hdmi,static,supported,4
+22,2,hdmi,dynamic,supported,5
+22,2,hdmi,cloned,supported,5
+22,2,hdmi,see-through,supported,2
+22,2,hdmi,none,manipulate,0
+22,2,hdmi,static,manipulate,4
+22,2,hdmi,dynamic,manipulate,5
+22,2,hdmi,cloned,manipulate,5
+22,2,hdmi,see-through,manipulate,2
+22,2,hdmi,none,check state,0
+22,2,hdmi,static,check state,5
+22,2,hdmi,dynamic,check state,5
+22,2,hdmi,cloned,check state,5
+22,2,hdmi,see-through,check state,4
+22,2,hdmi,none,ranking,4
+22,2,hdmi,static,ranking,2
+22,2,hdmi,dynamic,ranking,1
+22,2,hdmi,cloned,ranking,0
+22,2,hdmi,see-through,ranking,3
+22,3,slider,none,liked overall,0
+22,3,slider,static,liked overall,3
+22,3,slider,dynamic,liked overall,2
+22,3,slider,cloned,liked overall,6
+22,3,slider,see-through,liked overall,5
+22,3,slider,none,supported,0
+22,3,slider,static,supported,3
+22,3,slider,dynamic,supported,2
+22,3,slider,cloned,supported,6
+22,3,slider,see-through,supported,5
+22,3,slider,none,manipulate,1
+22,3,slider,static,manipulate,4
+22,3,slider,dynamic,manipulate,2
+22,3,slider,cloned,manipulate,6
+22,3,slider,see-through,manipulate,5
+22,3,slider,none,check state,0
+22,3,slider,static,check state,6
+22,3,slider,dynamic,check state,4
+22,3,slider,cloned,check state,6
+22,3,slider,see-through,check state,5
+22,3,slider,none,ranking,4
+22,3,slider,static,ranking,2
+22,3,slider,dynamic,ranking,3
+22,3,slider,cloned,ranking,0
+22,3,slider,see-through,ranking,1
+22,4,dial,none,liked overall,0
+22,4,dial,static,liked overall,3
+22,4,dial,dynamic,liked overall,1
+22,4,dial,cloned,liked overall,6
+22,4,dial,see-through,liked overall,5
+22,4,dial,none,supported,0
+22,4,dial,static,supported,4
+22,4,dial,dynamic,supported,2
+22,4,dial,cloned,supported,6
+22,4,dial,see-through,supported,5
+22,4,dial,none,manipulate,2
+22,4,dial,static,manipulate,4
+22,4,dial,dynamic,manipulate,2
+22,4,dial,cloned,manipulate,6
+22,4,dial,see-through,manipulate,5
+22,4,dial,none,check state,0
+22,4,dial,static,check state,5
+22,4,dial,dynamic,check state,2
+22,4,dial,cloned,check state,6
+22,4,dial,see-through,check state,4
+22,4,dial,none,ranking,4
+22,4,dial,static,ranking,1
+22,4,dial,dynamic,ranking,3
+22,4,dial,cloned,ranking,0
+22,4,dial,see-through,ranking,2
+22,5,button,none,liked overall,5
+22,5,button,static,liked overall,3
+22,5,button,dynamic,liked overall,0
+22,5,button,cloned,liked overall,4
+22,5,button,see-through,liked overall,5
+22,5,button,none,supported,3
+22,5,button,static,supported,3
+22,5,button,dynamic,supported,1
+22,5,button,cloned,supported,3
+22,5,button,see-through,supported,4
+22,5,button,none,manipulate,6
+22,5,button,static,manipulate,5
+22,5,button,dynamic,manipulate,2
+22,5,button,cloned,manipulate,5
+22,5,button,see-through,manipulate,6
+22,5,button,none,check state,5
+22,5,button,static,check state,3
+22,5,button,dynamic,check state,2
+22,5,button,cloned,check state,3
+22,5,button,see-through,check state,6
+22,5,button,none,ranking,0
+22,5,button,static,ranking,3
+22,5,button,dynamic,ranking,4
+22,5,button,cloned,ranking,1
+22,5,button,see-through,ranking,2
+22,99,,none,rating,2
+22,99,,static,rating,3
+22,99,,dynamic,rating,2
+22,99,,cloned,rating,6
+22,99,,see-through,rating,5
+22,99,,none,ranking,3
+22,99,,static,ranking,2
+22,99,,dynamic,ranking,4
+22,99,,cloned,ranking,0
+22,99,,see-through,ranking,1
+23,1,button,none,liked overall,5
+23,1,button,static,liked overall,4
+23,1,button,dynamic,liked overall,1
+23,1,button,cloned,liked overall,5
+23,1,button,see-through,liked overall,6
+23,1,button,none,supported,5
+23,1,button,static,supported,4
+23,1,button,dynamic,supported,2
+23,1,button,cloned,supported,4
+23,1,button,see-through,supported,3
+23,1,button,none,manipulate,6
+23,1,button,static,manipulate,6
+23,1,button,dynamic,manipulate,1
+23,1,button,cloned,manipulate,6
+23,1,button,see-through,manipulate,4
+23,1,button,none,check state,2
+23,1,button,static,check state,6
+23,1,button,dynamic,check state,0
+23,1,button,cloned,check state,6
+23,1,button,see-through,check state,2
+23,1,button,none,ranking,2
+23,1,button,static,ranking,0
+23,1,button,dynamic,ranking,4
+23,1,button,cloned,ranking,1
+23,1,button,see-through,ranking,3
+23,2,dial,none,liked overall,0
+23,2,dial,static,liked overall,6
+23,2,dial,dynamic,liked overall,2
+23,2,dial,cloned,liked overall,6
+23,2,dial,see-through,liked overall,3
+23,2,dial,none,supported,0
+23,2,dial,static,supported,5
+23,2,dial,dynamic,supported,2
+23,2,dial,cloned,supported,6
+23,2,dial,see-through,supported,3
+23,2,dial,none,manipulate,5
+23,2,dial,static,manipulate,6
+23,2,dial,dynamic,manipulate,4
+23,2,dial,cloned,manipulate,6
+23,2,dial,see-through,manipulate,5
+23,2,dial,none,check state,0
+23,2,dial,static,check state,6
+23,2,dial,dynamic,check state,2
+23,2,dial,cloned,check state,6
+23,2,dial,see-through,check state,3
+23,2,dial,none,ranking,4
+23,2,dial,static,ranking,1
+23,2,dial,dynamic,ranking,3
+23,2,dial,cloned,ranking,0
+23,2,dial,see-through,ranking,2
+23,3,slider,none,liked overall,0
+23,3,slider,static,liked overall,5
+23,3,slider,dynamic,liked overall,1
+23,3,slider,cloned,liked overall,6
+23,3,slider,see-through,liked overall,3
+23,3,slider,none,supported,0
+23,3,slider,static,supported,6
+23,3,slider,dynamic,supported,1
+23,3,slider,cloned,supported,6
+23,3,slider,see-through,supported,3
+23,3,slider,none,manipulate,5
+23,3,slider,static,manipulate,6
+23,3,slider,dynamic,manipulate,5
+23,3,slider,cloned,manipulate,6
+23,3,slider,see-through,manipulate,5
+23,3,slider,none,check state,1
+23,3,slider,static,check state,6
+23,3,slider,dynamic,check state,3
+23,3,slider,cloned,check state,6
+23,3,slider,see-through,check state,2
+23,3,slider,none,ranking,4
+23,3,slider,static,ranking,1
+23,3,slider,dynamic,ranking,3
+23,3,slider,cloned,ranking,0
+23,3,slider,see-through,ranking,2
+23,4,hook,none,liked overall,2
+23,4,hook,static,liked overall,3
+23,4,hook,dynamic,liked overall,5
+23,4,hook,cloned,liked overall,5
+23,4,hook,see-through,liked overall,4
+23,4,hook,none,supported,2
+23,4,hook,static,supported,3
+23,4,hook,dynamic,supported,4
+23,4,hook,cloned,supported,6
+23,4,hook,see-through,supported,4
+23,4,hook,none,manipulate,3
+23,4,hook,static,manipulate,2
+23,4,hook,dynamic,manipulate,4
+23,4,hook,cloned,manipulate,5
+23,4,hook,see-through,manipulate,4
+23,4,hook,none,check state,1
+23,4,hook,static,check state,5
+23,4,hook,dynamic,check state,6
+23,4,hook,cloned,check state,6
+23,4,hook,see-through,check state,4
+23,4,hook,none,ranking,4
+23,4,hook,static,ranking,1
+23,4,hook,dynamic,ranking,2
+23,4,hook,cloned,ranking,0
+23,4,hook,see-through,ranking,3
+23,5,hdmi,none,liked overall,6
+23,5,hdmi,static,liked overall,4
+23,5,hdmi,dynamic,liked overall,1
+23,5,hdmi,cloned,liked overall,1
+23,5,hdmi,see-through,liked overall,0
+23,5,hdmi,none,supported,6
+23,5,hdmi,static,supported,4
+23,5,hdmi,dynamic,supported,1
+23,5,hdmi,cloned,supported,1
+23,5,hdmi,see-through,supported,1
+23,5,hdmi,none,manipulate,2
+23,5,hdmi,static,manipulate,2
+23,5,hdmi,dynamic,manipulate,0
+23,5,hdmi,cloned,manipulate,0
+23,5,hdmi,see-through,manipulate,0
+23,5,hdmi,none,check state,3
+23,5,hdmi,static,check state,2
+23,5,hdmi,dynamic,check state,0
+23,5,hdmi,cloned,check state,0
+23,5,hdmi,see-through,check state,0
+23,5,hdmi,none,ranking,0
+23,5,hdmi,static,ranking,1
+23,5,hdmi,dynamic,ranking,4
+23,5,hdmi,cloned,ranking,3
+23,5,hdmi,see-through,ranking,2
+23,99,,none,rating,4
+23,99,,static,rating,5
+23,99,,dynamic,rating,1
+23,99,,cloned,rating,5
+23,99,,see-through,rating,2
+23,99,,none,ranking,2
+23,99,,static,ranking,1
+23,99,,dynamic,ranking,4
+23,99,,cloned,ranking,0
+23,99,,see-through,ranking,3
+24,1,hdmi,none,liked overall,6
+24,1,hdmi,static,liked overall,5
+24,1,hdmi,dynamic,liked overall,4
+24,1,hdmi,cloned,liked overall,6
+24,1,hdmi,see-through,liked overall,6
+24,1,hdmi,none,supported,0
+24,1,hdmi,static,supported,6
+24,1,hdmi,dynamic,supported,5
+24,1,hdmi,cloned,supported,6
+24,1,hdmi,see-through,supported,6
+24,1,hdmi,none,manipulate,5
+24,1,hdmi,static,manipulate,6
+24,1,hdmi,dynamic,manipulate,5
+24,1,hdmi,cloned,manipulate,6
+24,1,hdmi,see-through,manipulate,6
+24,1,hdmi,none,check state,0
+24,1,hdmi,static,check state,6
+24,1,hdmi,dynamic,check state,6
+24,1,hdmi,cloned,check state,6
+24,1,hdmi,see-through,check state,6
+24,1,hdmi,none,ranking,4
+24,1,hdmi,static,ranking,2
+24,1,hdmi,dynamic,ranking,3
+24,1,hdmi,cloned,ranking,1
+24,1,hdmi,see-through,ranking,0
+24,2,hook,none,liked overall,2
+24,2,hook,static,liked overall,5
+24,2,hook,dynamic,liked overall,5
+24,2,hook,cloned,liked overall,6
+24,2,hook,see-through,liked overall,6
+24,2,hook,none,supported,0
+24,2,hook,static,supported,6
+24,2,hook,dynamic,supported,6
+24,2,hook,cloned,supported,6
+24,2,hook,see-through,supported,6
+24,2,hook,none,manipulate,1
+24,2,hook,static,manipulate,6
+24,2,hook,dynamic,manipulate,6
+24,2,hook,cloned,manipulate,6
+24,2,hook,see-through,manipulate,6
+24,2,hook,none,check state,0
+24,2,hook,static,check state,6
+24,2,hook,dynamic,check state,6
+24,2,hook,cloned,check state,6
+24,2,hook,see-through,check state,6
+24,2,hook,none,ranking,4
+24,2,hook,static,ranking,3
+24,2,hook,dynamic,ranking,2
+24,2,hook,cloned,ranking,0
+24,2,hook,see-through,ranking,1
+24,3,dial,none,liked overall,0
+24,3,dial,static,liked overall,4
+24,3,dial,dynamic,liked overall,2
+24,3,dial,cloned,liked overall,6
+24,3,dial,see-through,liked overall,6
+24,3,dial,none,supported,0
+24,3,dial,static,supported,5
+24,3,dial,dynamic,supported,5
+24,3,dial,cloned,supported,6
+24,3,dial,see-through,supported,6
+24,3,dial,none,manipulate,0
+24,3,dial,static,manipulate,5
+24,3,dial,dynamic,manipulate,5
+24,3,dial,cloned,manipulate,6
+24,3,dial,see-through,manipulate,6
+24,3,dial,none,check state,0
+24,3,dial,static,check state,6
+24,3,dial,dynamic,check state,6
+24,3,dial,cloned,check state,6
+24,3,dial,see-through,check state,6
+24,3,dial,none,ranking,4
+24,3,dial,static,ranking,2
+24,3,dial,dynamic,ranking,3
+24,3,dial,cloned,ranking,1
+24,3,dial,see-through,ranking,0
+24,4,slider,none,liked overall,4
+24,4,slider,static,liked overall,4
+24,4,slider,dynamic,liked overall,1
+24,4,slider,cloned,liked overall,6
+24,4,slider,see-through,liked overall,6
+24,4,slider,none,supported,0
+24,4,slider,static,supported,5
+24,4,slider,dynamic,supported,4
+24,4,slider,cloned,supported,6
+24,4,slider,see-through,supported,6
+24,4,slider,none,manipulate,1
+24,4,slider,static,manipulate,5
+24,4,slider,dynamic,manipulate,5
+24,4,slider,cloned,manipulate,6
+24,4,slider,see-through,manipulate,6
+24,4,slider,none,check state,4
+24,4,slider,static,check state,5
+24,4,slider,dynamic,check state,4
+24,4,slider,cloned,check state,6
+24,4,slider,see-through,check state,6
+24,4,slider,none,ranking,3
+24,4,slider,static,ranking,2
+24,4,slider,dynamic,ranking,4
+24,4,slider,cloned,ranking,0
+24,4,slider,see-through,ranking,1
+24,5,button,none,liked overall,5
+24,5,button,static,liked overall,6
+24,5,button,dynamic,liked overall,5
+24,5,button,cloned,liked overall,6
+24,5,button,see-through,liked overall,6
+24,5,button,none,supported,2
+24,5,button,static,supported,5
+24,5,button,dynamic,supported,5
+24,5,button,cloned,supported,6
+24,5,button,see-through,supported,6
+24,5,button,none,manipulate,4
+24,5,button,static,manipulate,6
+24,5,button,dynamic,manipulate,5
+24,5,button,cloned,manipulate,6
+24,5,button,see-through,manipulate,6
+24,5,button,none,check state,3
+24,5,button,static,check state,6
+24,5,button,dynamic,check state,6
+24,5,button,cloned,check state,6
+24,5,button,see-through,check state,6
+24,5,button,none,ranking,4
+24,5,button,static,ranking,2
+24,5,button,dynamic,ranking,3
+24,5,button,cloned,ranking,0
+24,5,button,see-through,ranking,1
+24,99,,none,rating,0
+24,99,,static,rating,6
+24,99,,dynamic,rating,5
+24,99,,cloned,rating,6
+24,99,,see-through,rating,6
+24,99,,none,ranking,4
+24,99,,static,ranking,2
+24,99,,dynamic,ranking,3
+24,99,,cloned,ranking,0
+24,99,,see-through,ranking,1
