@@ -1,0 +1,71 @@
+#' @title Pointing in Virtual Reality
+#' 
+#' @description Data from a study where participants pointed at one of 27 targets
+#' in the space in front of them. This version contains calibration poses, participant
+#' information, end the final pose for each pointing trial. The full dataset with all
+#' movement within each trial is available at \url{https://github.com/TorSalve/pointing-data-ATHCC}.
+#' 
+#' @format A list with three entries:
+#' 
+#'  \strong{participants} with 12 fields for 13 study participants:
+#'  \describe{
+#'   \item{pid}{Participant ID.}
+#'   \item{handedness}{Participants' dominant hand.}
+#'   \item{gender}{Participants'self-reported gender.}
+#'   \item{age}{Participant age.}
+#'   \item{forearmLength}{Length of forearm in meter.}
+#'   \item{forearmMarkerDist}{Distance from the forarm marker to the elbow in meter.}
+#'   \item{indexFingerLength}{Index finger length in meter.}
+#'   \item{upperArmLength}{Length of the upper arm in meter.}
+#'   \item{upperArmMarkerDist}{Distance from the upper arm marker to the elbow in meter.}
+#'   \item{height}{Participant height in meter.}
+#'   \item{rightShoulderMarkerDist.X}{Horizontal distance from the right shoulder marker to the participants' shoulder in meter.}
+#'   \item{rightShoulderMarkerDist.Y}{Vertical distance from the right shoulder marker to the participants' shoulder in meter.}
+#'  }
+#'  
+#'  \strong{calibration} with 44 fields for 39 observations:
+#'  \describe{
+#'   \item{pid}{Participant ID.}
+#'   \item{pose}{Calibration pose, where 1 = arms pointing down, 2 = arm pointing to the right, and 3 = arm pointing forward.}
+#'   \item{indexFinger.X, indexFinger.Y, indexFinger.Z}{Index finger position in meter.}
+#'   \item{hand.X, hand.Y, hand.Z}{Hand position in meter.}
+#'   \item{forearm.X, forearm.Y, forearm.Z}{Forearm position in meter.}
+#'   \item{upperArm.X, upperArm.Y, upperArm.Z}{Upper arm position in meter.}
+#'   \item{rightShoulder.X, rightShoulder.Y, rightShoulder.Z}{Right shoulder position in meter.}
+#'   \item{hmd.X, hmd.Y, hmd.Z}{Headset position in meter.}
+#'   \item{leftShoulder.X, leftShoulder.Y, leftShoulder.Z}{Left Shoulder position in meter.}
+#'   \item{indexFingerO.X, indexFingerO.Y, indexFingerO.Z}{Index finger orientation in radians.}
+#'   \item{handO.X, handO.Y, handO.Z}{Hand orientation in radians.}
+#'   \item{forearmO.X, forearmO.Y, forearmO.Z}{Forearm orientation in radians.}
+#'   \item{upperArmO.X, upperArmO.Y, upperArmO.Z}{Upper arm orientation in radians.}
+#'   \item{rightShoulderO.X, rightShoulderO.Y, rightShoulderO.Z}{Right shoulder orientation in radians.}
+#'   \item{hmdO.X, hmdO.Y, hmdO.Z}{Headset orientation in radians.}
+#'   \item{leftShoulderO.X, leftShoulderO.Y, leftShoulderO.Z}{Left shoulder orientation in radians.}
+#'  }
+#'  
+#'  \strong{pointing} with 48 fields for 1755 observations:
+#'  \describe{
+#'   \item{pid}{Participant ID.}
+#'   \item{trial}{Trial number.}
+#'   \item{time}{Time since beginning of trial in seconds.}
+#'   \item{indexFinger.X, indexFinger.Y, indexFinger.Z}{Index finger position in meter.}
+#'   \item{hand.X, hand.Y, hand.Z}{Hand position in meter.}
+#'   \item{forearm.X, forearm.Y, forearm.Z}{Forearm position in meter.}
+#'   \item{upperArm.X, upperArm.Y, upperArm.Z}{Upper arm position in meter.}
+#'   \item{rightShoulder.X, rightShoulder.Y, rightShoulder.Z}{Right shoulder position in meter.}
+#'   \item{hmd.X, hmd.Y, hmd.Z}{Headset position in meter.}
+#'   \item{leftShoulder.X, leftShoulder.Y, leftShoulder.Z}{Left Shoulder position in meter.}
+#'   \item{indexFingerO.X, indexFingerO.Y, indexFingerO.Z}{Index finger orientation in radians.}
+#'   \item{handO.X, handO.Y, handO.Z}{Hand orientation in radians.}
+#'   \item{forearmO.X, forearmO.Y, forearmO.Z}{Forearm orientation in radians.}
+#'   \item{upperArmO.X, upperArmO.Y, upperArmO.Z}{Upper arm orientation in radians.}
+#'   \item{rightShoulderO.X, rightShoulderO.Y, rightShoulderO.Z}{Right shoulder orientation in radians.}
+#'   \item{hmdO.X, hmdO.Y, hmdO.Z}{Headset orientation in radians.}
+#'   \item{leftShoulderO.X, leftShoulderO.Y, leftShoulderO.Z}{Left shoulder orientation in radians.}
+#'   \item{target.X, target.Y, target.Z}{Target position in meter.}
+#'  }
+#' 
+#' @family virtual reality
+#' @source \insertRef{Dalsgaard2021}{hcidata}
+#' @keywords datasets
+"VrPointing"

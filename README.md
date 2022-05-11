@@ -48,6 +48,16 @@ Trans. Comput.-Hum. Interact.* 29 (4).
 
 </div>
 
+<div id="ref-Dalsgaard2021" class="csl-entry">
+
+Dalsgaard, Tor-Salve, Jarrod Knibbe, and Joanna Bergström. 2021.
+“Modeling Pointing for 3d Target Selection in VR.” In *Proceedings of
+the 27th ACM Symposium on Virtual Reality Software and Technology*. VRST
+’21. New York, NY, USA: Association for Computing Machinery.
+<https://doi.org/10.1145/3489849.3489853>.
+
+</div>
+
 <div id="ref-Larsen2019" class="csl-entry">
 
 Larsen, Joachim Normann, Tórur Højgaard Jacobsen, Sebastian Boring,
