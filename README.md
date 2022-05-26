@@ -79,6 +79,14 @@ Machinery. <https://doi.org/10.1145/3290605.3300676>.
 
 </div>
 
+<div id="ref-Pohl2022" class="csl-entry">
+
+Pohl, Henning, and Aske Mottelson. 2022. “Hafnia Hands: A Multi-Skin
+Hand Texture Resource for Virtual Reality Research.” *Frontiers in
+Virtual Reality* 3. <https://doi.org/10.3389/frvir.2022.719506>.
+
+</div>
+
 <div id="ref-Pohl2013" class="csl-entry">
 
 Pohl, Henning, and Roderick Murray-Smith. 2013. “Focused and Casual
