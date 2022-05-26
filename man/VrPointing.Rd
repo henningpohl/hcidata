@@ -12,7 +12,7 @@ A list with three entries:
   \item{pid}{Participant ID.}
   \item{handedness}{Participants' dominant hand.}
   \item{gender}{Participants'self-reported gender.}
-  \item{age}{Participant age}
+  \item{age}{Participant age.}
   \item{forearmLength}{Length of forearm in meter.}
   \item{forearmMarkerDist}{Distance from the forarm marker to the elbow in meter.}
   \item{indexFingerLength}{Index finger length in meter.}
