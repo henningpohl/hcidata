@@ -3,7 +3,11 @@ Title: HCI Datasets
 Version: 0.1.0
 Type: Package
 Authors@R: person("Henning", "Pohl", email="HenningPohl@gmail.com", comment=c(ORCID="0000-0002-1420-4309"), role=c("aut", "cre"))
-Description: A collection of datasets from the field of human-computer interaction.
+Description: A collection of datasets of human-computer interaction (HCI) experiments. 
+    Each dataset is from an HCI paper, with all fields described and the original publication 
+    linked. All paper authors of included data have consented to the inclusion of their data 
+    in this package. The datasets include data from a range of HCI studies, such as pointing 
+    tasks, user experience ratings, and steering tasks.
 Encoding: UTF-8
 License: CC BY 4.0
 Language: en-US
@@ -14,4 +18,4 @@ Depends:
     R (>= 2.10)
 Imports: Rdpack
 RdMacros: Rdpack
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.2

@@ -7,7 +7,12 @@
 <!-- badges: end -->
 
 The goal of hcidata is to provide a collection of datasets from the
-field of human-computer interaction.
+field of human-computer interaction (HCI). Each dataset is from an HCI
+paper, with all fields described and the original publication linked.
+All paper authors of included data have consented to the inclusion of
+their data in this package. The datasets include data from a range of
+HCI studies, such as pointing tasks, user experience ratings, and
+steering tasks.
 
 ## Installation
 
@@ -102,6 +107,6 @@ Machinery. <https://doi.org/10.1145/2470654.2481307>.
 ## Contributing
 
 Please create a pull request if you want to add a dataset to this
-package. You should hold the rights to release that data and all you
-coauthors need to agree to the release. Your data mustn’t contain
+package. You should hold the rights to release that data and all your
+coauthors need to agree to the release. Your data must not contain
 personal data to be included into hcidata.

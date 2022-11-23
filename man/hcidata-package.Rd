@@ -7,7 +7,7 @@
 \alias{hcidata}
 \title{hcidata: HCI Datasets}
 \description{
-A collection of datasets from the field of human-computer interaction.
+A collection of datasets of human-computer interaction (HCI) experiments. Each dataset is from an HCI paper, with all fields described and the original publication linked. All paper authors of included data have consented to the inclusion of their data in this package. The datasets include data from a range of HCI studies, such as pointing tasks, user experience ratings, and steering tasks.
 }
 \seealso{
 Useful links:

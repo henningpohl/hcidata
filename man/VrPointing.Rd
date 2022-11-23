@@ -11,10 +11,10 @@ A list with three entries:
  \describe{
   \item{pid}{Participant ID.}
   \item{handedness}{Participants' dominant hand.}
-  \item{gender}{Participants'self-reported gender.}
+  \item{gender}{Participants' self-reported gender.}
   \item{age}{Participant age.}
   \item{forearmLength}{Length of forearm in meter.}
-  \item{forearmMarkerDist}{Distance from the forarm marker to the elbow in meter.}
+  \item{forearmMarkerDist}{Distance from the forearm marker to the elbow in meter.}
   \item{indexFingerLength}{Index finger length in meter.}
   \item{upperArmLength}{Length of the upper arm in meter.}
   \item{upperArmMarkerDist}{Distance from the upper arm marker to the elbow in meter.}

@@ -27,8 +27,8 @@ A data frame with 126 observations of the following 26 variables:
   \item{NASA4}{NASA-TLX (performance) = "How successful were you in accomplishing what you were asked to do? low--high" (21 point scale).}
   \item{NASA5}{NASA-TLX (effort) = "How hard did you have to work to accomplish your level of performance? low--high" (21 point scale).}
   \item{NASA6}{NASA-TLX (frustration) = "How insecure, discouraged, irritated, stressed, and annoyed were you? low--high" (21 point scale).}
-  \item{Ownership}{Body Ownership = "It felt like the device I was using was part of my body: strongly disgree--strongly agree" (7 point scale).}
-  \item{Agency1}{Agency = "It felt like I was in control of the movements during the task: strongly disgree--strongly agree" (7 point scale).}
+  \item{Ownership}{Body Ownership = "It felt like the device I was using was part of my body: strongly disagree--strongly agree" (7 point scale).}
+  \item{Agency1}{Agency = "It felt like I was in control of the movements during the task: strongly disagree--strongly agree" (7 point scale).}
   \item{Agency2}{Agency = "What is the degree of control you felt? lowest--highest" (7 point scale).}
   \item{Agency3}{Agency = "Indicate how much it felt like pressing/tapping the button/touchpad/arm caused the space craft to shot: not at all--very much" (7 point scale).}
   \item{TimePerception}{Perception of task duration in seconds.}

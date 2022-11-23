@@ -11,7 +11,7 @@ A list with two entries:
  \describe{
   \item{pid}{Participant ID.}
   \item{Age}{Participant age.}
-  \item{Sex}{Participants'self-reported sex.}
+  \item{Sex}{Participants' self-reported sex.}
   \item{VR Experience}{Participants' amount of experience with VR.}
   \item{Skin Tone}{Participants' skin tone on the Fitzpatrick scale.}
  }
@@ -19,7 +19,7 @@ A list with two entries:
  \strong{responses} with 9072 entries in 5 fields:
  \describe{
   \item{pid}{Participant ID.}
-  \item{Trial}{Trrial number.}
+  \item{Trial}{Trial number.}
   \item{Condition}{Trial condition: Alien Hand, Matched Hand, or Mismatched Hand}
   \item{Measure}{Questionnaire item, which is one of: \describe{
     \item{Agency}{"I felt that the movements of the virtual hands were caused by my own movements" (Banakou and Slater 2014)}
@@ -30,7 +30,7 @@ A list with two entries:
     \item{HQ2}{"Please rate the hands based on the opposing adjectives: Mechanical movement to Biological movement" (Ho and MacDorman 2017)}
     \item{HQ3}{"Please rate the hands based on the opposing adjectives: Human-made to Human-like" (Ho and MacDorman 2017)}
     \item{HQ4}{"Please rate the hands based on the opposing adjectives: Without definite lifespan to Mortal" (Ho and MacDorman 2017)}
-    \item{Humanness}{Agreegate of HQ0-HQ4}
+    \item{Humanness}{Aggregate of HQ0-HQ4}
   }}
   \item{Response}{Participants' response on 7-point (-3 to 3) scale. For Humanness this is the average of HQ0-HQ4.}
  }
